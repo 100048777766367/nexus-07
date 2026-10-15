@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Kristen",
-        "Kristen Elise",
         "Gleicheniales:",
         "order ferns",
         "The",
@@ -99,7 +97,9 @@
         "Group: Strategic",
         "Kaththi",
         "Kaththi the",
-        "dir"
+        "dir",
+        "Summerslam",
+        "The 2006"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -158,6 +158,7 @@
         "Usually, --[the]--> home page",
         "Strategic --[studies]--> Group: Strategic",
         "Kaththi --[(soundtrack):]--> Kaththi the",
-        "The --[film,]--> dir"
+        "The --[film,]--> dir",
+        "Summerslam --[(2006):]--> The 2006"
     ]
 }
