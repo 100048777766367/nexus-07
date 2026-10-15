@@ -93,7 +93,9 @@
         "Kuntillet",
         "inscriptions: The",
         "Provident",
-        "Provident one"
+        "Provident one",
+        "Melphina:",
+        "genus skipper"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -145,6 +147,7 @@
         "2017 --[phillip]--> Island 500:",
         "Bazentin-le-petit --[communal]--> Cemetery Extension:",
         "Kuntillet --[ajrud]--> inscriptions: The",
-        "Provident --[(constituency):]--> Provident one"
+        "Provident --[(constituency):]--> Provident one",
+        "Melphina: --[melphina]--> genus skipper"
     ]
 }
