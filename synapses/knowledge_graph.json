@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "first female",
-        "Middle Ages",
-        "Panzergrenadier",
-        "Großdeutschland: The",
         "Lyckeby:",
         "village Karlskrona",
         "Mariko",
@@ -99,7 +95,11 @@
         "men's 200",
         "Underdogs",
         "\"Underdogs\" song",
-        "2007 record"
+        "2007 record",
+        "Dancer",
+        "bus): Dancer",
+        "The",
+        "bus"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -163,6 +163,8 @@
         "Orlando --[cossani:]--> Orlando Cossani",
         "Competed --[the]--> men's 200",
         "Underdogs --[(song):]--> \"Underdogs\" song",
-        "Was --[released]--> 2007 record"
+        "Was --[released]--> 2007 record",
+        "Dancer --[(electric]--> bus): Dancer",
+        "The --[electric]--> bus"
     ]
 }
