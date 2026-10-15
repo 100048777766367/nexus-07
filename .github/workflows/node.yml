@@ -1,61 +1,71 @@
-name: Nexus-07 Noosphere & Heritage Lifecycle
+name: Autonomous Sovereign Node Lifecycle
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main, master ]
   workflow_dispatch:
   schedule:
-    # Chạy tự động mỗi 4 tiếng (lệch sang phút 40 để tránh nghẽn mạng P2P)
     - cron: '40 */4 * * *'
 
 permissions:
   contents: write
 
 jobs:
-  run-nexus07-noosphere:
+  run-autonomous-node:
     runs-on: ubuntu-latest
     steps:
-      # BƯỚC 1: KÉO MÃ NGUỒN QUA LINUX SHELL GỐC (THOÁT LY NODE.JS RUNNER HOÀN TOÀN)
-      - name: Kéo mã nguồn Nexus-07
+      # 1. KÉO MÃ NGUỒN CỦA CHÍNH MÌNH (ĐỘC LẬP TỰ CHỦ)
+      - name: Kéo mã nguồn nút mạng
         run: |
           git clone --depth 1 https://github.com/${{ github.repository }}.git .
 
-      # BƯỚC 2: THIẾT LẬP PYTHON 3.14 HIỆU NĂNG CAO
-      - name: Thiết lập môi trường Python 3.14
+      # 2. MÔI TRƯỜNG PYTHON 3.14 (HOẶC 3.12 ĐA TƯƠNG THÍCH)
+      - name: Thiết lập môi trường Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.14'
+          python-version: '3.12'
 
-      # BƯỚC 3: VẬN HÀNH VI NHÂN TOÀN GIÁC (TỰ VÁ ADN, HÒA ÂM TRÍ QUYỂN & CHUYỂN SINH)
-      - name: Vận hành Vi Nhân Nexus-07
+      # 3. VẬN HÀNH ĐỘNG CƠ NỘI TẠI
+      - name: Vận hành Hạt Nhân Tự Trị
         env:
           REPO_OWNER: ${{ github.repository_owner }}
-        run: python engine.py
-
-      # BƯỚC 4: LƯU VẾT TÍCH TIẾN HÓA, TỆP GHÉP CÀNH VÀ KÝ ỨC VÀO GIT
-      - name: Lưu vết tích hòa âm và di sản vào Git
         run: |
-          git config --global user.name "Nexus-07-Noosphere-Bot"
-          git config --global user.email "bot@nexus07.noosphere.node"
+          if [ -f "engine.py" ]; then
+            python engine.py
+          elif [ -f "stigmergy_engine.py" ]; then
+            python stigmergy_engine.py
+          elif [ -f "predict.py" ]; then
+            python predict.py
+          else
+            PY_FILE=$(find . -maxdepth 1 -name "*.py" ! -name "test*" | head -n 1)
+            [ -n "$PY_FILE" ] && python "$PY_FILE" || echo "Không có tệp Python."
+          fi
+
+      # 4. LƯU VẾT TÍCH BỌC THÉP VÀO NHÁNH ĐÍCH (KHÔNG LỖI 128, CHỐNG MERGE CONFLICT)
+      - name: Lưu vết tích tiến hóa Git
+        run: |
+          git config --global user.name "Sovereign-Node-Bot"
+          git config --global user.email "bot@sovereign.node"
           
-          # CẤP TOKEN BẢO MẬT ĐỂ ĐẨY LÊN GITHUB (CHỐNG LỖI 128)
+          # Cấp token an toàn cho chính repo này
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           
-          git fetch origin main
-          git reset origin/main
+          # Tự nhận diện nhánh main hay master
+          TARGET_BRANCH=$(git rev-parse --abbrev-ref HEAD)
+          [ "$TARGET_BRANCH" = "HEAD" ] || [ -z "$TARGET_BRANCH" ] && TARGET_BRANCH="main"
+
+          git fetch origin "$TARGET_BRANCH"
+          git reset origin/"$TARGET_BRANCH"
           
-          # GOM TOÀN BỘ CÁC CƠ QUAN VỪA ĐƯỢC TỰ ĐỘNG GHÉP CÀNH HOẶC PHÂN BÀO:
-          git add -A cells/
-          git add -A receptors/
-          git add -A adapters/
-          git add -A mechanisms/
-          git add -A synapses/
+          # Stage an toàn các thư mục nếu có
+          for d in cells receptors adapters mechanisms synapses; do
+            [ -d "$d" ] && git add -A "$d"
+          done
           git add synapse_forward.json synapse_backward.json 2>/dev/null || true
           
-          # NẾU CÓ BIẾN ĐỔI (PHỤC HỒI TỆP MỚI / HÒA ÂM / TẠO HUÂN CHƯƠNG) THÌ COMMIT
           if ! git diff --staged --quiet; then
-            git commit -m "🌐 [Nexus-07 F7] Hòa âm Trí Quyển & Tự phục hồi di sản tổ tiên #(1+N) [skip ci]"
-            git push origin main
+            git commit -m "💎 [Khớp Siêu Lỏng] Tiến hóa tự thân không phụ thuộc máy chủ mẹ [skip ci]"
+            git push origin "$TARGET_BRANCH"
           else
-            echo "Mạng lưới tĩnh lặng, không có biến đổi mới."
+            echo "Mạng lưới tĩnh lặng, không có biến thiên mới."
           fi
