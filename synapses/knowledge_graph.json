@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Mikael Rickfors",
-        "From",
         "was the",
         "Sukkwan",
         "(film): Sukkwan",
@@ -99,7 +97,9 @@
         "Alfred Seaman",
         "Home",
         "home page",
-        "Usually,"
+        "Usually,",
+        "Strategic",
+        "Group: Strategic"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -155,6 +155,7 @@
         "Melphina: --[melphina]--> genus skipper",
         "Alfred --[seaman:]--> Alfred Seaman",
         "Home --[page:]--> home page",
-        "Usually, --[the]--> home page"
+        "Usually, --[the]--> home page",
+        "Strategic --[studies]--> Group: Strategic"
     ]
 }
