@@ -1,38 +1,33 @@
+import hashlib
 import json
 import os
 
-RAW_SIGNAL = "synapse_backward.json"
-VERIFIED_SIGNAL = "verified_backward.json"
+class ContractReceptor:
+    @staticmethod
+    def verify_and_absorb(raw_data, source_peer, immune_memory_path="synapses/immune_memory.json"):
+        try:
+            packet = json.loads(raw_data) if isinstance(raw_data, str) else raw_data
+            contract = packet.get("contract", "")
+            if "bodhi" in contract or "nexus" in contract:
+                return True, packet, None
 
-def verify_and_purify():
-    if not os.path.exists(RAW_SIGNAL):
-        return False
+            quarantine = {
+                "source": source_peer,
+                "signature": hashlib.shake_256(str(raw_data).encode()).hexdigest(16),
+                "absorbed_weight": round(len(str(raw_data)) / 1000.0, 4)
+            }
+            ContractReceptor.store_immune_memory(quarantine, immune_memory_path)
+            return False, None, quarantine
+        except Exception:
+            return False, None, None
 
-    try:
-        with open(RAW_SIGNAL, "r") as f:
-            data = json.load(f)
-
-        grads = data.get("gradients_for_eye", [])
-        if not isinstance(grads, list) or len(grads) < 2:
-            print(f"⛔ [HỆ MIỄN DỊCH CHẶN] Xung đạo hàm sai cấu trúc: {data}")
-            return False
-
-        # Kháng độc tố: Giới hạn đạo hàm trong khoảng an toàn [-5.0, 5.0] chống nổ gradient
-        clean_grads = [max(-5.0, min(5.0, float(g))) for g in grads[:2]]
-        
-        purified_packet = {
-            "reply_to_timestamp": data.get("reply_to_timestamp", 0),
-            "gradients_for_eye": clean_grads
-        }
-
-        with open(VERIFIED_SIGNAL, "w") as f:
-            json.dump(purified_packet, f, indent=4)
-
-        print(f"🛡️ [LỌC ĐẠO HÀM THÀNH CÔNG] Đạo hàm tinh khiết: {clean_grads}")
-        return True
-    except Exception as e:
-        print(f"⚠️ [ĐỘC TỐ] Tệp đạo hàm bị hỏng: {e}")
-        return False
-
-if __name__ == "__main__":
-    verify_and_purify()
+    @staticmethod
+    def store_immune_memory(energy, path):
+        os.makedirs(os.path.dirname(path), exist_ok=True)
+        mem = []
+        if os.path.exists(path):
+            try:
+                with open(path, "r") as f: mem = json.load(f)
+            except Exception: pass
+        mem.append(energy)
+        with open(path, "w") as f: json.dump(mem[-50:], f, indent=4)
