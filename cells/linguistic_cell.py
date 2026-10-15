@@ -8,7 +8,7 @@ class LinguisticCell:
         clean_text = str(text).strip().lower()
         coords = []
         for d in range(4):
-            seed = f"{clean_text}_axis_{d}".encode()
+            seed = f"{clean_text}_nexus06_axis_{d}".encode()
             val = int(hashlib.shake_256(seed).hexdigest(4), 16) / 65535.0
             coords.append(round(val, 4))
         return coords
