@@ -1,0 +1,16 @@
+{
+    "altar_of_ancestors": [
+        {
+            "consecrated_at_epoch": 56,
+            "timestamp": 1792054850,
+            "entity": "survival.py",
+            "epitaph": "Đã hy sinh thân mình phân bào thành công thư mục survival_organ",
+            "offerings": [
+                "Fresh_Lotus_Flower",
+                "Eternal_Flame",
+                "Golden_Certificate_of_Honor"
+            ]
+        }
+    ],
+    "holy_relics": []
+}
