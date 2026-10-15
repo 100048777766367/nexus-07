@@ -91,7 +91,9 @@
         "Bazentin-le-petit",
         "Cemetery Extension:",
         "Kuntillet",
-        "inscriptions: The"
+        "inscriptions: The",
+        "Provident",
+        "Provident one"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -142,6 +144,7 @@
         "Voices --[sarafina!:]--> Voices Sarafina!",
         "2017 --[phillip]--> Island 500:",
         "Bazentin-le-petit --[communal]--> Cemetery Extension:",
-        "Kuntillet --[ajrud]--> inscriptions: The"
+        "Kuntillet --[ajrud]--> inscriptions: The",
+        "Provident --[(constituency):]--> Provident one"
     ]
 }
