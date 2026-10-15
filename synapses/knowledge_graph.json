@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Anna",
-        "Anna Hvoslef",
-        "One",
         "first female",
         "Middle Ages",
         "Panzergrenadier",
@@ -99,7 +96,10 @@
         "Orlando",
         "Orlando Cossani",
         "Competed",
-        "men's 200"
+        "men's 200",
+        "Underdogs",
+        "\"Underdogs\" song",
+        "2007 record"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -161,6 +161,8 @@
         "The --[film,]--> dir",
         "Summerslam --[(2006):]--> The 2006",
         "Orlando --[cossani:]--> Orlando Cossani",
-        "Competed --[the]--> men's 200"
+        "Competed --[the]--> men's 200",
+        "Underdogs --[(song):]--> \"Underdogs\" song",
+        "Was --[released]--> 2007 record"
     ]
 }
