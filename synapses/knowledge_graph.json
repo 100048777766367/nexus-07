@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Gleicheniales:",
-        "order ferns",
-        "The",
-        "has spore",
         "Anna",
         "Anna Hvoslef",
         "One",
@@ -99,7 +95,11 @@
         "Kaththi the",
         "dir",
         "Summerslam",
-        "The 2006"
+        "The 2006",
+        "Orlando",
+        "Orlando Cossani",
+        "Competed",
+        "men's 200"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -159,6 +159,8 @@
         "Strategic --[studies]--> Group: Strategic",
         "Kaththi --[(soundtrack):]--> Kaththi the",
         "The --[film,]--> dir",
-        "Summerslam --[(2006):]--> The 2006"
+        "Summerslam --[(2006):]--> The 2006",
+        "Orlando --[cossani:]--> Orlando Cossani",
+        "Competed --[the]--> men's 200"
     ]
 }
