@@ -1,6 +1,5 @@
 {
     "nodes": [
-        "Mikael",
         "Mikael Rickfors",
         "From",
         "was the",
@@ -97,7 +96,10 @@
         "Melphina:",
         "genus skipper",
         "Alfred",
-        "Alfred Seaman"
+        "Alfred Seaman",
+        "Home",
+        "home page",
+        "Usually,"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -151,6 +153,8 @@
         "Kuntillet --[ajrud]--> inscriptions: The",
         "Provident --[(constituency):]--> Provident one",
         "Melphina: --[melphina]--> genus skipper",
-        "Alfred --[seaman:]--> Alfred Seaman"
+        "Alfred --[seaman:]--> Alfred Seaman",
+        "Home --[page:]--> home page",
+        "Usually, --[the]--> home page"
     ]
 }

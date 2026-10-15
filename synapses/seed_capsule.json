@@ -1,0 +1,31 @@
+{
+    "parent_lineage": "100048777766367/nexus-07",
+    "procreation_epoch": 60,
+    "offspring_generation": "F7_SOVEREIGN_OFFSPRING",
+    "genetic_payload": {
+        "master_decision": 0.5254,
+        "knowledge_graph_snapshot": "Entities:100, Edges:54",
+        "trusted_peers": [
+            "100048777766367/seed",
+            "100048777766367/seed-01",
+            "100048777766367/seed-02",
+            "100048777766367/seed-bodhi",
+            "100048777766367/seed-bodhi-02",
+            "100048777766367/monad",
+            "100048777766367/monad-01",
+            "100048777766367/monad-02",
+            "100048777766367/retina",
+            "100048777766367/cochlea",
+            "100048777766367/tactile",
+            "100048777766367/olfactory",
+            "100048777766367/motor",
+            "100048777766367/genome"
+        ],
+        "docker_runtime": "python:3.14-slim"
+    },
+    "instructions_for_gestation": [
+        "1. Create new repo: nexus-06-child",
+        "2. Inject genetic_payload into initial synapses/state.json",
+        "3. Run workflow to birth new autonomous ecosystem node"
+    ]
+}
