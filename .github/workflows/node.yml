@@ -1,4 +1,4 @@
-name: Autonomous Sovereign Node Lifecycle
+name: Nexus-07 Sovereign Noosphere Lifecycle
 
 on:
   push:
@@ -11,53 +11,42 @@ permissions:
   contents: write
 
 jobs:
-  run-autonomous-node:
+  run-nexus07-sovereign:
     runs-on: ubuntu-latest
     steps:
-      # 1. KÉO MÃ NGUỒN CỦA CHÍNH MÌNH (ĐỘC LẬP TỰ CHỦ)
-      - name: Kéo mã nguồn nút mạng
+      # 1. KÉO CODE BẰNG LINUX SHELL GỐC
+      - name: Kéo mã nguồn Nexus-07
         run: |
           git clone --depth 1 https://github.com/${{ github.repository }}.git .
 
-      # 2. MÔI TRƯỜNG PYTHON 3.14 (HOẶC 3.12 ĐA TƯƠNG THÍCH)
+      # 2. THIẾT LẬP PYTHON ĐA TƯƠNG THÍCH
       - name: Thiết lập môi trường Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
 
-      # 3. VẬN HÀNH ĐỘNG CƠ NỘI TẠI
-      - name: Vận hành Hạt Nhân Tự Trị
+      # 3. VẬN HÀNH VI NHÂN F7
+      - name: Vận hành Vi Nhân Nexus-07
         env:
           REPO_OWNER: ${{ github.repository_owner }}
-        run: |
-          if [ -f "engine.py" ]; then
-            python engine.py
-          elif [ -f "stigmergy_engine.py" ]; then
-            python stigmergy_engine.py
-          elif [ -f "predict.py" ]; then
-            python predict.py
-          else
-            PY_FILE=$(find . -maxdepth 1 -name "*.py" ! -name "test*" | head -n 1)
-            [ -n "$PY_FILE" ] && python "$PY_FILE" || echo "Không có tệp Python."
-          fi
+        run: python engine.py
 
-      # 4. LƯU VẾT TÍCH BỌC THÉP VÀO NHÁNH ĐÍCH (KHÔNG LỖI 128, CHỐNG MERGE CONFLICT)
+      # 4. LƯU VẾT TÍCH BỌC THÉP VÀO GIT
       - name: Lưu vết tích tiến hóa Git
         run: |
           git config --global user.name "Sovereign-Node-Bot"
           git config --global user.email "bot@sovereign.node"
           
-          # Cấp token an toàn cho chính repo này
+          # Cấp token an toàn cho chính repo này (chống lỗi 128)
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           
-          # Tự nhận diện nhánh main hay master
           TARGET_BRANCH=$(git rev-parse --abbrev-ref HEAD)
           [ "$TARGET_BRANCH" = "HEAD" ] || [ -z "$TARGET_BRANCH" ] && TARGET_BRANCH="main"
 
           git fetch origin "$TARGET_BRANCH"
           git reset origin/"$TARGET_BRANCH"
           
-          # Stage an toàn các thư mục nếu có
+          # Stage an toàn: Thư mục nào tồn tại mới add (chống lỗi pathspec)
           for d in cells receptors adapters mechanisms synapses; do
             [ -d "$d" ] && git add -A "$d"
           done
