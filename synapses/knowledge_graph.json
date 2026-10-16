@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Lyckeby:",
-        "village Karlskrona",
         "Mariko",
         "Mariko Sanjo",
         "Sir",
@@ -99,7 +97,9 @@
         "Dancer",
         "bus): Dancer",
         "The",
-        "bus"
+        "bus",
+        "Test",
+        "Test preparation"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -165,6 +165,7 @@
         "Underdogs --[(song):]--> \"Underdogs\" song",
         "Was --[released]--> 2007 record",
         "Dancer --[(electric]--> bus): Dancer",
-        "The --[electric]--> bus"
+        "The --[electric]--> bus",
+        "Test --[preparation:]--> Test preparation"
     ]
 }
