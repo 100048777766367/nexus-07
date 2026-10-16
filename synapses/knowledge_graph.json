@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Mariko",
-        "Mariko Sanjo",
         "Sir",
         "Comes Lunch:",
         "Wodehouse,",
@@ -99,7 +97,9 @@
         "The",
         "bus",
         "Test",
-        "Test preparation"
+        "Test preparation",
+        "Martin",
+        "(footballer, born"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -166,6 +166,7 @@
         "Was --[released]--> 2007 record",
         "Dancer --[(electric]--> bus): Dancer",
         "The --[electric]--> bus",
-        "Test --[preparation:]--> Test preparation"
+        "Test --[preparation:]--> Test preparation",
+        "Martin --[müller]--> (footballer, born"
     ]
 }
