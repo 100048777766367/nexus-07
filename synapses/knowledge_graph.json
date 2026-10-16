@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Sir",
-        "Comes Lunch:",
-        "Wodehouse,",
-        "features the",
         "Ferwerderadiel:",
         "former municipality",
         "Its",
@@ -99,7 +95,11 @@
         "Test",
         "Test preparation",
         "Martin",
-        "(footballer, born"
+        "(footballer, born",
+        "Juntos",
+        "Cambio: Juntos",
+        "Liberal",
+        "was created"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -167,6 +167,8 @@
         "Dancer --[(electric]--> bus): Dancer",
         "The --[electric]--> bus",
         "Test --[preparation:]--> Test preparation",
-        "Martin --[müller]--> (footballer, born"
+        "Martin --[müller]--> (footballer, born",
+        "Juntos --[por]--> Cambio: Juntos",
+        "Liberal --[coalition,]--> was created"
     ]
 }
