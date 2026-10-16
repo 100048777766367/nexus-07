@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Ferwerderadiel:",
-        "former municipality",
         "Its",
         "name West",
         "Leticia",
@@ -99,7 +97,9 @@
         "Juntos",
         "Cambio: Juntos",
         "Liberal",
-        "was created"
+        "was created",
+        "East",
+        "Historic District:"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -169,6 +169,7 @@
         "Test --[preparation:]--> Test preparation",
         "Martin --[müller]--> (footballer, born",
         "Juntos --[por]--> Cambio: Juntos",
-        "Liberal --[coalition,]--> was created"
+        "Liberal --[coalition,]--> was created",
+        "East --[ravenswood]--> Historic District:"
     ]
 }
