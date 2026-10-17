@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "general secretary",
-        "Patrick",
         "Three-Decker: The",
         "Anderson",
         "District (Anderson,",
@@ -99,7 +97,9 @@
         "Esha",
         "Esha Chawla",
         "She",
-        "her debut"
+        "her debut",
+        "Alpi:",
+        "phosphatase, intestinal,"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -177,6 +177,7 @@
         "Hemionitis: --[hemionitis]--> genus ferns",
         "Its --[circumscription]--> varies",
         "Esha --[chawla:]--> Esha Chawla",
-        "She --[made]--> her debut"
+        "She --[made]--> her debut",
+        "Alpi: --[alkaline]--> phosphatase, intestinal,"
     ]
 }
