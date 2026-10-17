@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "known former",
-        "Showalter:",
-        "Baltzell Showalter",
-        "Batalha",
         "The Monastery",
         "Sayed",
         "Islam: Sayed",
@@ -99,7 +95,11 @@
         "Not",
         "the FDA",
         "Karl",
-        "fictional mad"
+        "fictional mad",
+        "Hemionitis:",
+        "genus ferns",
+        "Its",
+        "varies"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -173,6 +173,8 @@
         "East --[ravenswood]--> Historic District:",
         "Epicillin: --[epicillin]--> (INN) penicillin",
         "Not --[approved]--> the FDA",
-        "Karl --[malus]--> fictional mad"
+        "Karl --[malus]--> fictional mad",
+        "Hemionitis: --[hemionitis]--> genus ferns",
+        "Its --[circumscription]--> varies"
     ]
 }
