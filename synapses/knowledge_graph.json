@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "The Monastery",
-        "Sayed",
-        "Islam: Sayed",
-        "Was",
         "general secretary",
         "Patrick",
         "Three-Decker: The",
@@ -99,7 +95,11 @@
         "Hemionitis:",
         "genus ferns",
         "Its",
-        "varies"
+        "varies",
+        "Esha",
+        "Esha Chawla",
+        "She",
+        "her debut"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -175,6 +175,8 @@
         "Not --[approved]--> the FDA",
         "Karl --[malus]--> fictional mad",
         "Hemionitis: --[hemionitis]--> genus ferns",
-        "Its --[circumscription]--> varies"
+        "Its --[circumscription]--> varies",
+        "Esha --[chawla:]--> Esha Chawla",
+        "She --[made]--> her debut"
     ]
 }
