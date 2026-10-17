@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "American journalist",
-        "She",
         "known former",
         "Showalter:",
         "Baltzell Showalter",
@@ -99,7 +97,9 @@
         "Epicillin:",
         "(INN) penicillin",
         "Not",
-        "the FDA"
+        "the FDA",
+        "Karl",
+        "fictional mad"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -172,6 +172,7 @@
         "Liberal --[coalition,]--> was created",
         "East --[ravenswood]--> Historic District:",
         "Epicillin: --[epicillin]--> (INN) penicillin",
-        "Not --[approved]--> the FDA"
+        "Not --[approved]--> the FDA",
+        "Karl --[malus]--> fictional mad"
     ]
 }
