@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Its",
-        "name West",
-        "Leticia",
-        "Leticia Ann",
         "American journalist",
         "She",
         "known former",
@@ -99,7 +95,11 @@
         "Liberal",
         "was created",
         "East",
-        "Historic District:"
+        "Historic District:",
+        "Epicillin:",
+        "(INN) penicillin",
+        "Not",
+        "the FDA"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -170,6 +170,8 @@
         "Martin --[müller]--> (footballer, born",
         "Juntos --[por]--> Cambio: Juntos",
         "Liberal --[coalition,]--> was created",
-        "East --[ravenswood]--> Historic District:"
+        "East --[ravenswood]--> Historic District:",
+        "Epicillin: --[epicillin]--> (INN) penicillin",
+        "Not --[approved]--> the FDA"
     ]
 }
