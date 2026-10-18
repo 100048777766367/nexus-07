@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "District (Anderson,",
-        "cotton being",
-        "Rara",
         "rara was",
         "Operated",
         "December 2011",
@@ -99,7 +96,10 @@
         "Alpi:",
         "phosphatase, intestinal,",
         "Ashford",
-        "Centre: Ashford"
+        "Centre: Ashford",
+        "Heba",
+        "Amin",
+        "artist, researcher"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -179,6 +179,8 @@
         "Esha --[chawla:]--> Esha Chawla",
         "She --[made]--> her debut",
         "Alpi: --[alkaline]--> phosphatase, intestinal,",
-        "Ashford --[steam]--> Centre: Ashford"
+        "Ashford --[steam]--> Centre: Ashford",
+        "Heba --[amin:]--> Heba",
+        "Amin --[visual]--> artist, researcher"
     ]
 }
