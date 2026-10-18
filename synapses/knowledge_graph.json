@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Three-Decker: The",
-        "Anderson",
         "District (Anderson,",
         "cotton being",
         "Rara",
@@ -99,7 +97,9 @@
         "She",
         "her debut",
         "Alpi:",
-        "phosphatase, intestinal,"
+        "phosphatase, intestinal,",
+        "Ashford",
+        "Centre: Ashford"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -178,6 +178,7 @@
         "Its --[circumscription]--> varies",
         "Esha --[chawla:]--> Esha Chawla",
         "She --[made]--> her debut",
-        "Alpi: --[alkaline]--> phosphatase, intestinal,"
+        "Alpi: --[alkaline]--> phosphatase, intestinal,",
+        "Ashford --[steam]--> Centre: Ashford"
     ]
 }
