@@ -1,11 +1,5 @@
 {
     "nodes": [
-        "December 2011",
-        "Offered",
-        "on-deman",
-        "Halifax",
-        "The Halifax",
-        "Erik",
         "Erik Källgren",
         "Thomas",
         "Van:",
@@ -99,7 +93,13 @@
         "Amin",
         "artist, researcher",
         "Eurolat:",
-        "the Euro–Latin"
+        "the Euro–Latin",
+        "Hezekiah",
+        "Hezekiah Frith,",
+        "Was",
+        "shipowner, privateer",
+        "One",
+        "richest men"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -182,6 +182,9 @@
         "Ashford --[steam]--> Centre: Ashford",
         "Heba --[amin:]--> Heba",
         "Amin --[visual]--> artist, researcher",
-        "Eurolat: --[eurolat,]--> the Euro–Latin"
+        "Eurolat: --[eurolat,]--> the Euro–Latin",
+        "Hezekiah --[frith:]--> Hezekiah Frith,",
+        "Was --[bermudian]--> shipowner, privateer",
+        "One --[the]--> richest men"
     ]
 }
