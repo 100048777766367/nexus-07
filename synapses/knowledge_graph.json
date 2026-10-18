@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "rara was",
-        "Operated",
         "December 2011",
         "Offered",
         "on-deman",
@@ -99,7 +97,9 @@
         "Centre: Ashford",
         "Heba",
         "Amin",
-        "artist, researcher"
+        "artist, researcher",
+        "Eurolat:",
+        "the Euro–Latin"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -181,6 +181,7 @@
         "Alpi: --[alkaline]--> phosphatase, intestinal,",
         "Ashford --[steam]--> Centre: Ashford",
         "Heba --[amin:]--> Heba",
-        "Amin --[visual]--> artist, researcher"
+        "Amin --[visual]--> artist, researcher",
+        "Eurolat: --[eurolat,]--> the Euro–Latin"
     ]
 }
