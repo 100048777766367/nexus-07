@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Erik Källgren",
-        "Thomas",
-        "Van:",
         "ruined Armenian",
         "Drama",
         "EP): Drama",
@@ -99,7 +96,10 @@
         "Was",
         "shipowner, privateer",
         "One",
-        "richest men"
+        "richest men",
+        "Johnny",
+        "You Queer?:",
+        "performed"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -185,6 +185,8 @@
         "Eurolat: --[eurolat,]--> the Euro–Latin",
         "Hezekiah --[frith:]--> Hezekiah Frith,",
         "Was --[bermudian]--> shipowner, privateer",
-        "One --[the]--> richest men"
+        "One --[the]--> richest men",
+        "Johnny --[are]--> You Queer?:",
+        "Was --[first]--> performed"
     ]
 }
