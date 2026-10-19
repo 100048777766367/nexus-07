@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "ruined Armenian",
-        "Drama",
-        "EP): Drama",
-        "Entertainment November",
         "Ataíde",
         "Ataíde the",
         "New",
@@ -99,7 +95,11 @@
         "richest men",
         "Johnny",
         "You Queer?:",
-        "performed"
+        "performed",
+        "Sweetgrass",
+        "Sweetgrass 113",
+        "About",
+        "(16 mi)"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -187,6 +187,8 @@
         "Was --[bermudian]--> shipowner, privateer",
         "One --[the]--> richest men",
         "Johnny --[are]--> You Queer?:",
-        "Was --[first]--> performed"
+        "Was --[first]--> performed",
+        "Sweetgrass --[113:]--> Sweetgrass 113",
+        "About --[kilometres]--> (16 mi)"
     ]
 }
