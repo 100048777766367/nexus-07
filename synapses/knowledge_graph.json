@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Ataíde",
-        "Ataíde the",
-        "New",
-        "Maine: New",
         "was 577",
         "Willie",
         "William Eldon",
@@ -99,7 +95,11 @@
         "Sweetgrass",
         "Sweetgrass 113",
         "About",
-        "(16 mi)"
+        "(16 mi)",
+        "Jupoata:",
+        "genus longhorn",
+        "There",
+        "about described"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -189,6 +189,8 @@
         "Johnny --[are]--> You Queer?:",
         "Was --[first]--> performed",
         "Sweetgrass --[113:]--> Sweetgrass 113",
-        "About --[kilometres]--> (16 mi)"
+        "About --[kilometres]--> (16 mi)",
+        "Jupoata: --[jupoata]--> genus longhorn",
+        "There --[are]--> about described"
     ]
 }
