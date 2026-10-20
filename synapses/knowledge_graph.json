@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Guy",
-        "Joseph Harry",
         "Medborgarplatsen",
         "station: Medborgarplatsen,",
         "Spirillum:",
@@ -99,7 +97,9 @@
         "about described",
         "Mustilia",
         "gerontica: Mustilia",
-        "described West"
+        "described West",
+        "Gymnastics",
+        "2004 Summer"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -193,6 +193,7 @@
         "Jupoata: --[jupoata]--> genus longhorn",
         "There --[are]--> about described",
         "Mustilia --[sphingiformis]--> gerontica: Mustilia",
-        "Was --[first]--> described West"
+        "Was --[first]--> described West",
+        "Gymnastics --[the]--> 2004 Summer"
     ]
 }
