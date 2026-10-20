@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "was 577",
-        "Willie",
-        "William Eldon",
         "Guy",
         "Joseph Harry",
         "Medborgarplatsen",
@@ -99,7 +96,10 @@
         "Jupoata:",
         "genus longhorn",
         "There",
-        "about described"
+        "about described",
+        "Mustilia",
+        "gerontica: Mustilia",
+        "described West"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -191,6 +191,8 @@
         "Sweetgrass --[113:]--> Sweetgrass 113",
         "About --[kilometres]--> (16 mi)",
         "Jupoata: --[jupoata]--> genus longhorn",
-        "There --[are]--> about described"
+        "There --[are]--> about described",
+        "Mustilia --[sphingiformis]--> gerontica: Mustilia",
+        "Was --[first]--> described West"
     ]
 }
