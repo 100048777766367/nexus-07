@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Medborgarplatsen",
-        "station: Medborgarplatsen,",
-        "Spirillum:",
         "genus",
         "Gram-negative",
         "the family",
@@ -99,7 +96,10 @@
         "gerontica: Mustilia",
         "described West",
         "Gymnastics",
-        "2004 Summer"
+        "2004 Summer",
+        "Finnish",
+        "Mission: The",
+        "help Finns"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -194,6 +194,8 @@
         "There --[are]--> about described",
         "Mustilia --[sphingiformis]--> gerontica: Mustilia",
         "Was --[first]--> described West",
-        "Gymnastics --[the]--> 2004 Summer"
+        "Gymnastics --[the]--> 2004 Summer",
+        "Finnish --[seamen's]--> Mission: The",
+        "Was --[established]--> help Finns"
     ]
 }
