@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Žemaitkiemis meteorite",
-        "Colonel",
         "and Lord",
         "Voices",
         "Voices Sarafina!",
@@ -99,7 +97,9 @@
         "Daniel",
         "Daniel Lopes",
         "Came",
-        "contestant the"
+        "contestant the",
+        "Carrie",
+        "Carrie Amber"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -198,6 +198,7 @@
         "Finnish --[seamen's]--> Mission: The",
         "Was --[established]--> help Finns",
         "Daniel --[lopes:]--> Daniel Lopes",
-        "Came --[fame]--> contestant the"
+        "Came --[fame]--> contestant the",
+        "Carrie --[rheingans:]--> Carrie Amber"
     ]
 }
