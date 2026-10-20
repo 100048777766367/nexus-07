@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "genus",
-        "Gram-negative",
-        "the family",
-        "Žemaitkiemis",
         "Žemaitkiemis meteorite",
         "Colonel",
         "and Lord",
@@ -99,7 +95,11 @@
         "2004 Summer",
         "Finnish",
         "Mission: The",
-        "help Finns"
+        "help Finns",
+        "Daniel",
+        "Daniel Lopes",
+        "Came",
+        "contestant the"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -196,6 +196,8 @@
         "Was --[first]--> described West",
         "Gymnastics --[the]--> 2004 Summer",
         "Finnish --[seamen's]--> Mission: The",
-        "Was --[established]--> help Finns"
+        "Was --[established]--> help Finns",
+        "Daniel --[lopes:]--> Daniel Lopes",
+        "Came --[fame]--> contestant the"
     ]
 }
