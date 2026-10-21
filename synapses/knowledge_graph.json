@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "and Lord",
-        "Voices",
         "Voices Sarafina!",
         "2017",
         "Island 500:",
@@ -99,7 +97,9 @@
         "Came",
         "contestant the",
         "Carrie",
-        "Carrie Amber"
+        "Carrie Amber",
+        "Ivaylo",
+        "Ivaylo Borislavov"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -199,6 +199,7 @@
         "Was --[established]--> help Finns",
         "Daniel --[lopes:]--> Daniel Lopes",
         "Came --[fame]--> contestant the",
-        "Carrie --[rheingans:]--> Carrie Amber"
+        "Carrie --[rheingans:]--> Carrie Amber",
+        "Ivaylo --[markov:]--> Ivaylo Borislavov"
     ]
 }
