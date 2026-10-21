@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Bazentin-le-petit",
-        "Cemetery Extension:",
         "Kuntillet",
         "inscriptions: The",
         "Provident",
@@ -99,7 +97,9 @@
         "Ivaylo Borislavov",
         "Alfred Ittner",
         "Deep",
-        "Reservoir (Nevada):"
+        "Reservoir (Nevada):",
+        "Horace",
+        "Robbins: Horace"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -202,6 +202,7 @@
         "Carrie --[rheingans:]--> Carrie Amber",
         "Ivaylo --[markov:]--> Ivaylo Borislavov",
         "Alfred --[ittner:]--> Alfred Ittner",
-        "Deep --[creek]--> Reservoir (Nevada):"
+        "Deep --[creek]--> Reservoir (Nevada):",
+        "Horace --[wolcott]--> Robbins: Horace"
     ]
 }
