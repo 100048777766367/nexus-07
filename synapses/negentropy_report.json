@@ -1,6 +1,6 @@
 {
-    "epoch": 89,
-    "shannon_entropy": 4.6828,
-    "pruned_synapses_count": 0,
+    "epoch": 90,
+    "shannon_entropy": 4.6818,
+    "pruned_synapses_count": 1,
     "system_health": "Stable"
 }

@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "2017",
-        "Island 500:",
         "Bazentin-le-petit",
         "Cemetery Extension:",
         "Kuntillet",
@@ -99,7 +97,9 @@
         "Carrie Amber",
         "Ivaylo",
         "Ivaylo Borislavov",
-        "Alfred Ittner"
+        "Alfred Ittner",
+        "Deep",
+        "Reservoir (Nevada):"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -201,6 +201,7 @@
         "Came --[fame]--> contestant the",
         "Carrie --[rheingans:]--> Carrie Amber",
         "Ivaylo --[markov:]--> Ivaylo Borislavov",
-        "Alfred --[ittner:]--> Alfred Ittner"
+        "Alfred --[ittner:]--> Alfred Ittner",
+        "Deep --[creek]--> Reservoir (Nevada):"
     ]
 }
