@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Melphina:",
-        "genus skipper",
-        "Alfred",
-        "Alfred Seaman",
         "Home",
         "home page",
         "Usually,",
@@ -99,7 +95,11 @@
         "Iqsec2:",
         "and Sec7",
         "Dead",
-        "Dead State"
+        "Dead State",
+        "Manakanakku:",
+        "1986 Indian",
+        "Sakthi,",
+        "Vijayakanth, Sarath"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -205,6 +205,8 @@
         "Deep --[creek]--> Reservoir (Nevada):",
         "Horace --[wolcott]--> Robbins: Horace",
         "Iqsec2: --[motif]--> and Sec7",
-        "Dead --[state:]--> Dead State"
+        "Dead --[state:]--> Dead State",
+        "Manakanakku: --[manakanakku]--> 1986 Indian",
+        "Sakthi, --[starring]--> Vijayakanth, Sarath"
     ]
 }
