@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Provident",
-        "Provident one",
         "Melphina:",
         "genus skipper",
         "Alfred",
@@ -99,7 +97,9 @@
         "Horace",
         "Robbins: Horace",
         "Iqsec2:",
-        "and Sec7"
+        "and Sec7",
+        "Dead",
+        "Dead State"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -204,6 +204,7 @@
         "Alfred --[ittner:]--> Alfred Ittner",
         "Deep --[creek]--> Reservoir (Nevada):",
         "Horace --[wolcott]--> Robbins: Horace",
-        "Iqsec2: --[motif]--> and Sec7"
+        "Iqsec2: --[motif]--> and Sec7",
+        "Dead --[state:]--> Dead State"
     ]
 }
