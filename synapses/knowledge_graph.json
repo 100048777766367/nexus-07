@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Kuntillet",
-        "inscriptions: The",
         "Provident",
         "Provident one",
         "Melphina:",
@@ -99,7 +97,9 @@
         "Deep",
         "Reservoir (Nevada):",
         "Horace",
-        "Robbins: Horace"
+        "Robbins: Horace",
+        "Iqsec2:",
+        "and Sec7"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -203,6 +203,7 @@
         "Ivaylo --[markov:]--> Ivaylo Borislavov",
         "Alfred --[ittner:]--> Alfred Ittner",
         "Deep --[creek]--> Reservoir (Nevada):",
-        "Horace --[wolcott]--> Robbins: Horace"
+        "Horace --[wolcott]--> Robbins: Horace",
+        "Iqsec2: --[motif]--> and Sec7"
     ]
 }
