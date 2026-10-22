@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Home",
-        "home page",
-        "Usually,",
-        "Strategic",
         "Group: Strategic",
         "Kaththi",
         "Kaththi the",
@@ -99,7 +95,11 @@
         "Manakanakku:",
         "1986 Indian",
         "Sakthi,",
-        "Vijayakanth, Sarath"
+        "Vijayakanth, Sarath",
+        "Thomas",
+        "Thomas Neubauer",
+        "Former",
+        "the World"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -207,6 +207,8 @@
         "Iqsec2: --[motif]--> and Sec7",
         "Dead --[state:]--> Dead State",
         "Manakanakku: --[manakanakku]--> 1986 Indian",
-        "Sakthi, --[starring]--> Vijayakanth, Sarath"
+        "Sakthi, --[starring]--> Vijayakanth, Sarath",
+        "Thomas --[neubauer:]--> Thomas Neubauer",
+        "Former --[champion]--> the World"
     ]
 }
