@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Orlando",
-        "Orlando Cossani",
         "Competed",
         "men's 200",
         "Underdogs",
@@ -99,7 +97,9 @@
         "Cjcs-fm:",
         "Canadian radio",
         "With",
-        "hits/variety hits"
+        "hits/variety hits",
+        "Mucolipidosis:",
+        "group inherited"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -212,6 +212,7 @@
         "Former --[champion]--> the World",
         "Mesopotamia --[(roman]--> province): Mesopotamia",
         "Cjcs-fm: --[cjcs-fm]--> Canadian radio",
-        "With --[classic]--> hits/variety hits"
+        "With --[classic]--> hits/variety hits",
+        "Mucolipidosis: --[mucolipidosis]--> group inherited"
     ]
 }
