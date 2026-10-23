@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Group: Strategic",
-        "Kaththi",
         "Kaththi the",
         "dir",
         "Summerslam",
@@ -99,7 +97,9 @@
         "Thomas",
         "Thomas Neubauer",
         "Former",
-        "the World"
+        "the World",
+        "Mesopotamia",
+        "province): Mesopotamia"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -209,6 +209,7 @@
         "Manakanakku: --[manakanakku]--> 1986 Indian",
         "Sakthi, --[starring]--> Vijayakanth, Sarath",
         "Thomas --[neubauer:]--> Thomas Neubauer",
-        "Former --[champion]--> the World"
+        "Former --[champion]--> the World",
+        "Mesopotamia --[(roman]--> province): Mesopotamia"
     ]
 }
