@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Competed",
-        "men's 200",
-        "Underdogs",
         "\"Underdogs\" song",
         "2007 record",
         "Dancer",
@@ -99,7 +96,10 @@
         "With",
         "hits/variety hits",
         "Mucolipidosis:",
-        "group inherited"
+        "group inherited",
+        "Les",
+        "station: Les",
+        "located"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -213,6 +213,8 @@
         "Mesopotamia --[(roman]--> province): Mesopotamia",
         "Cjcs-fm: --[cjcs-fm]--> Canadian radio",
         "With --[classic]--> hits/variety hits",
-        "Mucolipidosis: --[mucolipidosis]--> group inherited"
+        "Mucolipidosis: --[mucolipidosis]--> group inherited",
+        "Les --[eyzies]--> station: Les",
+        "The --[station]--> located"
     ]
 }
