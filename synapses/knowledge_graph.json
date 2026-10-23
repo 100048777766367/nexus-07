@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Kaththi the",
-        "dir",
-        "Summerslam",
-        "The 2006",
         "Orlando",
         "Orlando Cossani",
         "Competed",
@@ -99,7 +95,11 @@
         "Former",
         "the World",
         "Mesopotamia",
-        "province): Mesopotamia"
+        "province): Mesopotamia",
+        "Cjcs-fm:",
+        "Canadian radio",
+        "With",
+        "hits/variety hits"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -210,6 +210,8 @@
         "Sakthi, --[starring]--> Vijayakanth, Sarath",
         "Thomas --[neubauer:]--> Thomas Neubauer",
         "Former --[champion]--> the World",
-        "Mesopotamia --[(roman]--> province): Mesopotamia"
+        "Mesopotamia --[(roman]--> province): Mesopotamia",
+        "Cjcs-fm: --[cjcs-fm]--> Canadian radio",
+        "With --[classic]--> hits/variety hits"
     ]
 }
