@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Dancer",
-        "bus): Dancer",
-        "The",
-        "bus",
         "Test",
         "Test preparation",
         "Martin",
@@ -99,7 +95,11 @@
         "station: Les",
         "located",
         "Patterns",
-        "\"Patterns Force\""
+        "\"Patterns Force\"",
+        "Wall",
+        "Survivor: Wall",
+        "Launched",
+        "uses gamificati"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -216,6 +216,8 @@
         "Mucolipidosis: --[mucolipidosis]--> group inherited",
         "Les --[eyzies]--> station: Les",
         "The --[station]--> located",
-        "Patterns --[force:]--> \"Patterns Force\""
+        "Patterns --[force:]--> \"Patterns Force\"",
+        "Wall --[street]--> Survivor: Wall",
+        "Launched --[2005,]--> uses gamificati"
     ]
 }
