@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Test",
-        "Test preparation",
         "Martin",
         "(footballer, born",
         "Juntos",
@@ -99,7 +97,9 @@
         "Wall",
         "Survivor: Wall",
         "Launched",
-        "uses gamificati"
+        "uses gamificati",
+        "Park",
+        "District: The"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -218,6 +218,7 @@
         "The --[station]--> located",
         "Patterns --[force:]--> \"Patterns Force\"",
         "Wall --[street]--> Survivor: Wall",
-        "Launched --[2005,]--> uses gamificati"
+        "Launched --[2005,]--> uses gamificati",
+        "Park --[street]--> District: The"
     ]
 }
