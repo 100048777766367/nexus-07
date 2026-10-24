@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Martin",
-        "(footballer, born",
-        "Juntos",
         "Cambio: Juntos",
         "Liberal",
         "was created",
@@ -99,7 +96,10 @@
         "Launched",
         "uses gamificati",
         "Park",
-        "District: The"
+        "District: The",
+        "Knox",
+        "(Illinois): Knox",
+        "1837 anti-sla"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -219,6 +219,8 @@
         "Patterns --[force:]--> \"Patterns Force\"",
         "Wall --[street]--> Survivor: Wall",
         "Launched --[2005,]--> uses gamificati",
-        "Park --[street]--> District: The"
+        "Park --[street]--> District: The",
+        "Knox --[college]--> (Illinois): Knox",
+        "Was --[founded]--> 1837 anti-sla"
     ]
 }
