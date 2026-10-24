@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "\"Underdogs\" song",
-        "2007 record",
         "Dancer",
         "bus): Dancer",
         "The",
@@ -99,7 +97,9 @@
         "group inherited",
         "Les",
         "station: Les",
-        "located"
+        "located",
+        "Patterns",
+        "\"Patterns Force\""
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -215,6 +215,7 @@
         "With --[classic]--> hits/variety hits",
         "Mucolipidosis: --[mucolipidosis]--> group inherited",
         "Les --[eyzies]--> station: Les",
-        "The --[station]--> located"
+        "The --[station]--> located",
+        "Patterns --[force:]--> \"Patterns Force\""
     ]
 }
