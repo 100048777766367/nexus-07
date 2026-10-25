@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "was created",
-        "East",
         "Historic District:",
         "Epicillin:",
         "(INN) penicillin",
@@ -99,7 +97,9 @@
         "(Illinois): Knox",
         "1837 anti-sla",
         "Charlotta",
-        "Charlotta Fredrika"
+        "Charlotta Fredrika",
+        "Miguel",
+        "Miguel Ángel"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -222,6 +222,7 @@
         "Park --[street]--> District: The",
         "Knox --[college]--> (Illinois): Knox",
         "Was --[founded]--> 1837 anti-sla",
-        "Charlotta --[sparre:]--> Charlotta Fredrika"
+        "Charlotta --[sparre:]--> Charlotta Fredrika",
+        "Miguel --[llera:]--> Miguel Ángel"
     ]
 }
