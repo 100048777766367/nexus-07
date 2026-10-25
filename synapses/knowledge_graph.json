@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Historic District:",
-        "Epicillin:",
         "(INN) penicillin",
         "Not",
         "the FDA",
@@ -99,7 +97,9 @@
         "Charlotta",
         "Charlotta Fredrika",
         "Miguel",
-        "Miguel Ángel"
+        "Miguel Ángel",
+        "Saint",
+        "Saint Oda"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -223,6 +223,7 @@
         "Knox --[college]--> (Illinois): Knox",
         "Was --[founded]--> 1837 anti-sla",
         "Charlotta --[sparre:]--> Charlotta Fredrika",
-        "Miguel --[llera:]--> Miguel Ángel"
+        "Miguel --[llera:]--> Miguel Ángel",
+        "Saint --[oda:]--> Saint Oda"
     ]
 }
