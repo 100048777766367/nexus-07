@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Cambio: Juntos",
-        "Liberal",
         "was created",
         "East",
         "Historic District:",
@@ -99,7 +97,9 @@
         "District: The",
         "Knox",
         "(Illinois): Knox",
-        "1837 anti-sla"
+        "1837 anti-sla",
+        "Charlotta",
+        "Charlotta Fredrika"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -221,6 +221,7 @@
         "Launched --[2005,]--> uses gamificati",
         "Park --[street]--> District: The",
         "Knox --[college]--> (Illinois): Knox",
-        "Was --[founded]--> 1837 anti-sla"
+        "Was --[founded]--> 1837 anti-sla",
+        "Charlotta --[sparre:]--> Charlotta Fredrika"
     ]
 }
