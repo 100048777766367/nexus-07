@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "(INN) penicillin",
-        "Not",
         "the FDA",
         "Karl",
         "fictional mad",
@@ -99,7 +97,9 @@
         "Miguel",
         "Miguel Ángel",
         "Saint",
-        "Saint Oda"
+        "Saint Oda",
+        "Clarkson:",
+        "Sullivan Clarkson,"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -224,6 +224,7 @@
         "Was --[founded]--> 1837 anti-sla",
         "Charlotta --[sparre:]--> Charlotta Fredrika",
         "Miguel --[llera:]--> Miguel Ángel",
-        "Saint --[oda:]--> Saint Oda"
+        "Saint --[oda:]--> Saint Oda",
+        "Clarkson: --[james]--> Sullivan Clarkson,"
     ]
 }
