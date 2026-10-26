@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "the FDA",
-        "Karl",
         "fictional mad",
         "Hemionitis:",
         "genus ferns",
@@ -99,7 +97,9 @@
         "Saint",
         "Saint Oda",
         "Clarkson:",
-        "Sullivan Clarkson,"
+        "Sullivan Clarkson,",
+        "Fatawa",
+        "Uloom Deoband:"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -225,6 +225,7 @@
         "Charlotta --[sparre:]--> Charlotta Fredrika",
         "Miguel --[llera:]--> Miguel Ángel",
         "Saint --[oda:]--> Saint Oda",
-        "Clarkson: --[james]--> Sullivan Clarkson,"
+        "Clarkson: --[james]--> Sullivan Clarkson,",
+        "Fatawa --[darul]--> Uloom Deoband:"
     ]
 }
