@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "varies",
-        "Esha",
         "Esha Chawla",
         "She",
         "her debut",
@@ -99,7 +97,9 @@
         "Tseng",
         "Tseng Jing-hua",
         "Best",
-        "for playing"
+        "for playing",
+        "Blue",
+        "(album): Blue"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -228,6 +228,7 @@
         "Clarkson: --[james]--> Sullivan Clarkson,",
         "Fatawa --[darul]--> Uloom Deoband:",
         "Tseng --[jing-hua:]--> Tseng Jing-hua",
-        "Best --[known]--> for playing"
+        "Best --[known]--> for playing",
+        "Blue --[moses]--> (album): Blue"
     ]
 }
