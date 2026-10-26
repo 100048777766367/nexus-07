@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "fictional mad",
-        "Hemionitis:",
-        "genus ferns",
-        "Its",
         "varies",
         "Esha",
         "Esha Chawla",
@@ -99,7 +95,11 @@
         "Clarkson:",
         "Sullivan Clarkson,",
         "Fatawa",
-        "Uloom Deoband:"
+        "Uloom Deoband:",
+        "Tseng",
+        "Tseng Jing-hua",
+        "Best",
+        "for playing"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -226,6 +226,8 @@
         "Miguel --[llera:]--> Miguel Ángel",
         "Saint --[oda:]--> Saint Oda",
         "Clarkson: --[james]--> Sullivan Clarkson,",
-        "Fatawa --[darul]--> Uloom Deoband:"
+        "Fatawa --[darul]--> Uloom Deoband:",
+        "Tseng --[jing-hua:]--> Tseng Jing-hua",
+        "Best --[known]--> for playing"
     ]
 }
