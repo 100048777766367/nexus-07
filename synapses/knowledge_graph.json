@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Esha Chawla",
-        "She",
         "her debut",
         "Alpi:",
         "phosphatase, intestinal,",
@@ -99,7 +97,9 @@
         "Best",
         "for playing",
         "Blue",
-        "(album): Blue"
+        "(album): Blue",
+        "Chaerophyllum",
+        "Chaerophyllum colensoi,"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -229,6 +229,7 @@
         "Fatawa --[darul]--> Uloom Deoband:",
         "Tseng --[jing-hua:]--> Tseng Jing-hua",
         "Best --[known]--> for playing",
-        "Blue --[moses]--> (album): Blue"
+        "Blue --[moses]--> (album): Blue",
+        "Chaerophyllum --[colensoi:]--> Chaerophyllum colensoi,"
     ]
 }
