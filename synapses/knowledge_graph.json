@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Centre: Ashford",
-        "Heba",
-        "Amin",
-        "artist, researcher",
         "Eurolat:",
         "the Euro–Latin",
         "Hezekiah",
@@ -99,7 +95,11 @@
         "Supracondylar",
         "fracture: supracondylar",
         "The",
-        "usually"
+        "usually",
+        "Mother",
+        "Mother Disease",
+        "Remastered",
+        "was released"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -232,6 +232,8 @@
         "Blue --[moses]--> (album): Blue",
         "Chaerophyllum --[colensoi:]--> Chaerophyllum colensoi,",
         "Supracondylar --[humerus]--> fracture: supracondylar",
-        "The --[fracture]--> usually"
+        "The --[fracture]--> usually",
+        "Mother --[disease:]--> Mother Disease",
+        "Remastered --[reissue]--> was released"
     ]
 }
