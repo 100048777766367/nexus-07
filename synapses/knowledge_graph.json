@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "her debut",
-        "Alpi:",
-        "phosphatase, intestinal,",
-        "Ashford",
         "Centre: Ashford",
         "Heba",
         "Amin",
@@ -99,7 +95,11 @@
         "Blue",
         "(album): Blue",
         "Chaerophyllum",
-        "Chaerophyllum colensoi,"
+        "Chaerophyllum colensoi,",
+        "Supracondylar",
+        "fracture: supracondylar",
+        "The",
+        "usually"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -230,6 +230,8 @@
         "Tseng --[jing-hua:]--> Tseng Jing-hua",
         "Best --[known]--> for playing",
         "Blue --[moses]--> (album): Blue",
-        "Chaerophyllum --[colensoi:]--> Chaerophyllum colensoi,"
+        "Chaerophyllum --[colensoi:]--> Chaerophyllum colensoi,",
+        "Supracondylar --[humerus]--> fracture: supracondylar",
+        "The --[fracture]--> usually"
     ]
 }
