@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Was",
-        "shipowner, privateer",
         "One",
         "richest men",
         "Johnny",
@@ -99,7 +97,9 @@
         "Lackenby:",
         "small village",
         "Situated",
-        "immediate east"
+        "immediate east",
+        "71st",
+        "Brigade (Ukraine):"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -236,6 +236,7 @@
         "Mother --[disease:]--> Mother Disease",
         "Remastered --[reissue]--> was released",
         "Lackenby: --[lackenby]--> small village",
-        "Situated --[the]--> immediate east"
+        "Situated --[the]--> immediate east",
+        "71st --[airmobile]--> Brigade (Ukraine):"
     ]
 }
