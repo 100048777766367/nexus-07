@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Eurolat:",
-        "the Euro–Latin",
-        "Hezekiah",
-        "Hezekiah Frith,",
         "Was",
         "shipowner, privateer",
         "One",
@@ -99,7 +95,11 @@
         "Mother",
         "Mother Disease",
         "Remastered",
-        "was released"
+        "was released",
+        "Lackenby:",
+        "small village",
+        "Situated",
+        "immediate east"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -234,6 +234,8 @@
         "Supracondylar --[humerus]--> fracture: supracondylar",
         "The --[fracture]--> usually",
         "Mother --[disease:]--> Mother Disease",
-        "Remastered --[reissue]--> was released"
+        "Remastered --[reissue]--> was released",
+        "Lackenby: --[lackenby]--> small village",
+        "Situated --[the]--> immediate east"
     ]
 }
