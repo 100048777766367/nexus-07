@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "One",
-        "richest men",
         "Johnny",
         "You Queer?:",
         "performed",
@@ -99,7 +97,9 @@
         "Situated",
         "immediate east",
         "71st",
-        "Brigade (Ukraine):"
+        "Brigade (Ukraine):",
+        "Mława",
+        "Mława County"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -237,6 +237,7 @@
         "Remastered --[reissue]--> was released",
         "Lackenby: --[lackenby]--> small village",
         "Situated --[the]--> immediate east",
-        "71st --[airmobile]--> Brigade (Ukraine):"
+        "71st --[airmobile]--> Brigade (Ukraine):",
+        "Mława --[county:]--> Mława County"
     ]
 }
