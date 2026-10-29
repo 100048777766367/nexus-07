@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "(16 mi)",
-        "Jupoata:",
         "genus longhorn",
         "There",
         "about described",
@@ -99,7 +97,9 @@
         "Šarovy:",
         "municipality and",
         "Has",
-        "300 inhabit"
+        "300 inhabit",
+        "Uss",
+        "USS Grouper"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -241,6 +241,7 @@
         "Mława --[county:]--> Mława County",
         "Divine --[(1935]--> film): Divine",
         "Šarovy: --[šarovy]--> municipality and",
-        "Has --[about]--> 300 inhabit"
+        "Has --[about]--> 300 inhabit",
+        "Uss --[grouper:]--> USS Grouper"
     ]
 }
