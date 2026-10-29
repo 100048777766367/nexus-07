@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "performed",
-        "Sweetgrass",
-        "Sweetgrass 113",
-        "About",
         "(16 mi)",
         "Jupoata:",
         "genus longhorn",
@@ -99,7 +95,11 @@
         "Mława",
         "Mława County",
         "Divine",
-        "film): Divine"
+        "film): Divine",
+        "Šarovy:",
+        "municipality and",
+        "Has",
+        "300 inhabit"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -239,6 +239,8 @@
         "Situated --[the]--> immediate east",
         "71st --[airmobile]--> Brigade (Ukraine):",
         "Mława --[county:]--> Mława County",
-        "Divine --[(1935]--> film): Divine"
+        "Divine --[(1935]--> film): Divine",
+        "Šarovy: --[šarovy]--> municipality and",
+        "Has --[about]--> 300 inhabit"
     ]
 }
