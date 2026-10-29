@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Johnny",
-        "You Queer?:",
         "performed",
         "Sweetgrass",
         "Sweetgrass 113",
@@ -99,7 +97,9 @@
         "71st",
         "Brigade (Ukraine):",
         "Mława",
-        "Mława County"
+        "Mława County",
+        "Divine",
+        "film): Divine"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -238,6 +238,7 @@
         "Lackenby: --[lackenby]--> small village",
         "Situated --[the]--> immediate east",
         "71st --[airmobile]--> Brigade (Ukraine):",
-        "Mława --[county:]--> Mława County"
+        "Mława --[county:]--> Mława County",
+        "Divine --[(1935]--> film): Divine"
     ]
 }
