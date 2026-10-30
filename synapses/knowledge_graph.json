@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "genus longhorn",
-        "There",
         "about described",
         "Mustilia",
         "gerontica: Mustilia",
@@ -99,7 +97,9 @@
         "Has",
         "300 inhabit",
         "Uss",
-        "USS Grouper"
+        "USS Grouper",
+        "Hugo",
+        "Gálvez: Hugo"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -242,6 +242,7 @@
         "Divine --[(1935]--> film): Divine",
         "Šarovy: --[šarovy]--> municipality and",
         "Has --[about]--> 300 inhabit",
-        "Uss --[grouper:]--> USS Grouper"
+        "Uss --[grouper:]--> USS Grouper",
+        "Hugo --[gutiérrez]--> Gálvez: Hugo"
     ]
 }
