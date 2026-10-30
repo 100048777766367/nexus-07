@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "about described",
-        "Mustilia",
         "gerontica: Mustilia",
         "described West",
         "Gymnastics",
@@ -99,7 +97,9 @@
         "Uss",
         "USS Grouper",
         "Hugo",
-        "Gálvez: Hugo"
+        "Gálvez: Hugo",
+        "Cochleanthes:",
+        "genus Cochleanthes"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -243,6 +243,7 @@
         "Šarovy: --[šarovy]--> municipality and",
         "Has --[about]--> 300 inhabit",
         "Uss --[grouper:]--> USS Grouper",
-        "Hugo --[gutiérrez]--> Gálvez: Hugo"
+        "Hugo --[gutiérrez]--> Gálvez: Hugo",
+        "Cochleanthes: --[the]--> genus Cochleanthes"
     ]
 }
