@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "help Finns",
-        "Daniel",
         "Daniel Lopes",
         "Came",
         "contestant the",
@@ -99,7 +97,9 @@
         "Ted",
         "Edgar Arthur",
         "Ktls-fm:",
-        "radio station"
+        "radio station",
+        "Seychelles:",
+        "officially the"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -247,6 +247,7 @@
         "Cochleanthes: --[the]--> genus Cochleanthes",
         "Oberbrechen --[station:]--> Oberbrechen station",
         "Ted --[mcdonald:]--> Edgar Arthur",
-        "Ktls-fm: --[ktls-fm]--> radio station"
+        "Ktls-fm: --[ktls-fm]--> radio station",
+        "Seychelles: --[seychelles,]--> officially the"
     ]
 }
