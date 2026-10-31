@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Gymnastics",
-        "2004 Summer",
         "Finnish",
         "Mission: The",
         "help Finns",
@@ -99,7 +97,9 @@
         "Cochleanthes:",
         "genus Cochleanthes",
         "Oberbrechen",
-        "Oberbrechen station"
+        "Oberbrechen station",
+        "Ted",
+        "Edgar Arthur"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -245,6 +245,7 @@
         "Uss --[grouper:]--> USS Grouper",
         "Hugo --[gutiérrez]--> Gálvez: Hugo",
         "Cochleanthes: --[the]--> genus Cochleanthes",
-        "Oberbrechen --[station:]--> Oberbrechen station"
+        "Oberbrechen --[station:]--> Oberbrechen station",
+        "Ted --[mcdonald:]--> Edgar Arthur"
     ]
 }
