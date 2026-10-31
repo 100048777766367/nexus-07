@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Daniel Lopes",
-        "Came",
-        "contestant the",
         "Carrie",
         "Carrie Amber",
         "Ivaylo",
@@ -99,7 +96,10 @@
         "Ktls-fm:",
         "radio station",
         "Seychelles:",
-        "officially the"
+        "officially the",
+        "Belafonte",
+        "Carnegie Hall:",
+        "two Belafonte"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -248,6 +248,8 @@
         "Oberbrechen --[station:]--> Oberbrechen station",
         "Ted --[mcdonald:]--> Edgar Arthur",
         "Ktls-fm: --[ktls-fm]--> radio station",
-        "Seychelles: --[seychelles,]--> officially the"
+        "Seychelles: --[seychelles,]--> officially the",
+        "Belafonte --[returns]--> Carnegie Hall:",
+        "The --[second]--> two Belafonte"
     ]
 }
