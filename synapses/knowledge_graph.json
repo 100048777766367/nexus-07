@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Finnish",
-        "Mission: The",
         "help Finns",
         "Daniel",
         "Daniel Lopes",
@@ -99,7 +97,9 @@
         "Oberbrechen",
         "Oberbrechen station",
         "Ted",
-        "Edgar Arthur"
+        "Edgar Arthur",
+        "Ktls-fm:",
+        "radio station"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -246,6 +246,7 @@
         "Hugo --[gutiérrez]--> Gálvez: Hugo",
         "Cochleanthes: --[the]--> genus Cochleanthes",
         "Oberbrechen --[station:]--> Oberbrechen station",
-        "Ted --[mcdonald:]--> Edgar Arthur"
+        "Ted --[mcdonald:]--> Edgar Arthur",
+        "Ktls-fm: --[ktls-fm]--> radio station"
     ]
 }
