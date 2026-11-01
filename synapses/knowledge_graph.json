@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Ivaylo",
-        "Ivaylo Borislavov",
         "Alfred Ittner",
         "Deep",
         "Reservoir (Nevada):",
@@ -99,10 +97,11 @@
         "Carnegie Hall:",
         "two Belafonte",
         "Abbas",
-        "Abbas Araghchi"
+        "Abbas Araghchi",
+        "Projection:",
+        "design technique"
     ],
     "edges": [
-        "Mikael --[rickfors:]--> Mikael Rickfors",
         "From --[1968,]--> was the",
         "Sukkwan --[island]--> (film): Sukkwan",
         "Kristen --[lawrence:]--> Kristen Elise",
@@ -251,6 +250,7 @@
         "Seychelles: --[seychelles,]--> officially the",
         "Belafonte --[returns]--> Carnegie Hall:",
         "The --[second]--> two Belafonte",
-        "Abbas --[araghchi:]--> Abbas Araghchi"
+        "Abbas --[araghchi:]--> Abbas Araghchi",
+        "Projection: --[projection]--> design technique"
     ]
 }
