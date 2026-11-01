@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Alfred Ittner",
-        "Deep",
         "Reservoir (Nevada):",
         "Horace",
         "Robbins: Horace",
@@ -99,10 +97,11 @@
         "Abbas",
         "Abbas Araghchi",
         "Projection:",
-        "design technique"
+        "design technique",
+        "August",
+        "The following"
     ],
     "edges": [
-        "From --[1968,]--> was the",
         "Sukkwan --[island]--> (film): Sukkwan",
         "Kristen --[lawrence:]--> Kristen Elise",
         "Gleicheniales: --[gleicheniales]--> order ferns",
@@ -251,6 +250,7 @@
         "Belafonte --[returns]--> Carnegie Hall:",
         "The --[second]--> two Belafonte",
         "Abbas --[araghchi:]--> Abbas Araghchi",
-        "Projection: --[projection]--> design technique"
+        "Projection: --[projection]--> design technique",
+        "August --[1959:]--> The following"
     ]
 }
