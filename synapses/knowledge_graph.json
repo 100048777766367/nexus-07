@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Carrie",
-        "Carrie Amber",
         "Ivaylo",
         "Ivaylo Borislavov",
         "Alfred Ittner",
@@ -99,7 +97,9 @@
         "officially the",
         "Belafonte",
         "Carnegie Hall:",
-        "two Belafonte"
+        "two Belafonte",
+        "Abbas",
+        "Abbas Araghchi"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -250,6 +250,7 @@
         "Ktls-fm: --[ktls-fm]--> radio station",
         "Seychelles: --[seychelles,]--> officially the",
         "Belafonte --[returns]--> Carnegie Hall:",
-        "The --[second]--> two Belafonte"
+        "The --[second]--> two Belafonte",
+        "Abbas --[araghchi:]--> Abbas Araghchi"
     ]
 }
