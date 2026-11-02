@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Reservoir (Nevada):",
-        "Horace",
         "Robbins: Horace",
         "Iqsec2:",
         "and Sec7",
@@ -99,10 +97,11 @@
         "Projection:",
         "design technique",
         "August",
-        "The following"
+        "The following",
+        "Zákány:",
+        "village Hungary"
     ],
     "edges": [
-        "Sukkwan --[island]--> (film): Sukkwan",
         "Kristen --[lawrence:]--> Kristen Elise",
         "Gleicheniales: --[gleicheniales]--> order ferns",
         "The --[gleicheniales]--> has spore",
@@ -251,6 +250,7 @@
         "The --[second]--> two Belafonte",
         "Abbas --[araghchi:]--> Abbas Araghchi",
         "Projection: --[projection]--> design technique",
-        "August --[1959:]--> The following"
+        "August --[1959:]--> The following",
+        "Zákány: --[zákány]--> village Hungary"
     ]
 }
