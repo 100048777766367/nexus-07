@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Robbins: Horace",
-        "Iqsec2:",
         "and Sec7",
         "Dead",
         "Dead State",
@@ -99,10 +97,11 @@
         "August",
         "The following",
         "Zákány:",
-        "village Hungary"
+        "village Hungary",
+        "Energetically",
+        "cement: Energetically"
     ],
     "edges": [
-        "Kristen --[lawrence:]--> Kristen Elise",
         "Gleicheniales: --[gleicheniales]--> order ferns",
         "The --[gleicheniales]--> has spore",
         "Anna --[hvoslef:]--> Anna Hvoslef",
@@ -251,6 +250,7 @@
         "Abbas --[araghchi:]--> Abbas Araghchi",
         "Projection: --[projection]--> design technique",
         "August --[1959:]--> The following",
-        "Zákány: --[zákány]--> village Hungary"
+        "Zákány: --[zákány]--> village Hungary",
+        "Energetically --[modified]--> cement: Energetically"
     ]
 }
