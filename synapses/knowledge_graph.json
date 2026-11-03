@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Dead State",
-        "Manakanakku:",
         "1986 Indian",
         "Sakthi,",
         "Vijayakanth, Sarath",
@@ -99,10 +97,11 @@
         "Energetically",
         "cement: Energetically",
         "Battle",
-        "The naval"
+        "The naval",
+        "Monte",
+        "Monte Sagro"
     ],
     "edges": [
-        "The --[gleicheniales]--> has spore",
         "Anna --[hvoslef:]--> Anna Hvoslef",
         "One --[norway's]--> first female",
         "From --[the]--> Middle Ages",
@@ -251,6 +250,7 @@
         "August --[1959:]--> The following",
         "Zákány: --[zákány]--> village Hungary",
         "Energetically --[modified]--> cement: Energetically",
-        "Battle --[naulochus:]--> The naval"
+        "Battle --[naulochus:]--> The naval",
+        "Monte --[sagro:]--> Monte Sagro"
     ]
 }
