@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "and Sec7",
-        "Dead",
         "Dead State",
         "Manakanakku:",
         "1986 Indian",
@@ -99,10 +97,11 @@
         "Zákány:",
         "village Hungary",
         "Energetically",
-        "cement: Energetically"
+        "cement: Energetically",
+        "Battle",
+        "The naval"
     ],
     "edges": [
-        "Gleicheniales: --[gleicheniales]--> order ferns",
         "The --[gleicheniales]--> has spore",
         "Anna --[hvoslef:]--> Anna Hvoslef",
         "One --[norway's]--> first female",
@@ -251,6 +250,7 @@
         "Projection: --[projection]--> design technique",
         "August --[1959:]--> The following",
         "Zákány: --[zákány]--> village Hungary",
-        "Energetically --[modified]--> cement: Energetically"
+        "Energetically --[modified]--> cement: Energetically",
+        "Battle --[naulochus:]--> The naval"
     ]
 }
