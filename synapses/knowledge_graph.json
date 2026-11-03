@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "1986 Indian",
-        "Sakthi,",
-        "Vijayakanth, Sarath",
-        "Thomas",
         "Thomas Neubauer",
         "Former",
         "the World",
@@ -99,11 +95,13 @@
         "Battle",
         "The naval",
         "Monte",
-        "Monte Sagro"
+        "Monte Sagro",
+        "Kenneth",
+        "(actor): Kenneth",
+        "Mcmillan",
+        "usually cast"
     ],
     "edges": [
-        "Anna --[hvoslef:]--> Anna Hvoslef",
-        "One --[norway's]--> first female",
         "From --[the]--> Middle Ages",
         "Panzergrenadier --[division]--> Großdeutschland: The",
         "Lyckeby: --[lyckeby]--> village Karlskrona",
@@ -251,6 +249,8 @@
         "Zákány: --[zákány]--> village Hungary",
         "Energetically --[modified]--> cement: Energetically",
         "Battle --[naulochus:]--> The naval",
-        "Monte --[sagro:]--> Monte Sagro"
+        "Monte --[sagro:]--> Monte Sagro",
+        "Kenneth --[mcmillan]--> (actor): Kenneth",
+        "Mcmillan --[was]--> usually cast"
     ]
 }
