@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Thomas Neubauer",
-        "Former",
         "the World",
         "Mesopotamia",
         "province): Mesopotamia",
@@ -99,10 +97,11 @@
         "Kenneth",
         "(actor): Kenneth",
         "Mcmillan",
-        "usually cast"
+        "usually cast",
+        "Ernesto",
+        "(racing driver):"
     ],
     "edges": [
-        "From --[the]--> Middle Ages",
         "Panzergrenadier --[division]--> Großdeutschland: The",
         "Lyckeby: --[lyckeby]--> village Karlskrona",
         "Mariko --[sanjo:]--> Mariko Sanjo",
@@ -251,6 +250,7 @@
         "Battle --[naulochus:]--> The naval",
         "Monte --[sagro:]--> Monte Sagro",
         "Kenneth --[mcmillan]--> (actor): Kenneth",
-        "Mcmillan --[was]--> usually cast"
+        "Mcmillan --[was]--> usually cast",
+        "Ernesto --[rivera]--> (racing driver):"
     ]
 }
