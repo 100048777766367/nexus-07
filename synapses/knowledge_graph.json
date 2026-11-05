@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "group inherited",
-        "Les",
         "station: Les",
         "located",
         "Patterns",
@@ -99,10 +97,11 @@
         "Chatter",
         "Guard Station:",
         "Kéthely:",
-        "village Somogy"
+        "village Somogy",
+        "Capri",
+        "Capri Mensa"
     ],
     "edges": [
-        "Wodehouse, --[and]--> features the",
         "Ferwerderadiel: --[ferwerderadiel]--> former municipality",
         "Its --[official]--> name West",
         "Leticia --[cline:]--> Leticia Ann",
@@ -251,6 +250,7 @@
         "Martine --[martinel:]--> Martine Martinel",
         "She --[represented]--> Haute-Garonne's 4th",
         "Chatter --[creek]--> Guard Station:",
-        "Kéthely: --[kéthely]--> village Somogy"
+        "Kéthely: --[kéthely]--> village Somogy",
+        "Capri --[mensa:]--> Capri Mensa"
     ]
 }
