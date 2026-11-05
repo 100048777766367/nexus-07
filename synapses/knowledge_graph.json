@@ -1,6 +1,5 @@
 {
     "nodes": [
-        "station: Les",
         "located",
         "Patterns",
         "\"Patterns Force\"",
@@ -99,10 +98,10 @@
         "Kéthely:",
         "village Somogy",
         "Capri",
-        "Capri Mensa"
+        "Capri Mensa",
+        "Within (Savage"
     ],
     "edges": [
-        "Ferwerderadiel: --[ferwerderadiel]--> former municipality",
         "Its --[official]--> name West",
         "Leticia --[cline:]--> Leticia Ann",
         "Leticia --[cline]--> American journalist",
@@ -251,6 +250,7 @@
         "She --[represented]--> Haute-Garonne's 4th",
         "Chatter --[creek]--> Guard Station:",
         "Kéthely: --[kéthely]--> village Somogy",
-        "Capri --[mensa:]--> Capri Mensa"
+        "Capri --[mensa:]--> Capri Mensa",
+        "The --[enemy]--> Within (Savage"
     ]
 }
