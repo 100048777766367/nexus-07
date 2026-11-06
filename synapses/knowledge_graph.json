@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "\"Patterns Force\"",
-        "Wall",
-        "Survivor: Wall",
         "Launched",
         "uses gamificati",
         "Park",
@@ -99,11 +96,12 @@
         "Capri Mensa",
         "Within (Savage",
         "Crab",
-        "and Egyptian"
+        "and Egyptian",
+        "Kesari",
+        "Kesari Veer",
+        "co-produced"
     ],
     "edges": [
-        "Leticia --[cline:]--> Leticia Ann",
-        "Leticia --[cline]--> American journalist",
         "She --[best]--> known former",
         "Showalter: --[joseph]--> Baltzell Showalter",
         "Batalha --[monastery:]--> The Monastery",
@@ -251,6 +249,8 @@
         "Kéthely: --[kéthely]--> village Somogy",
         "Capri --[mensa:]--> Capri Mensa",
         "The --[enemy]--> Within (Savage",
-        "Crab --[orchard]--> and Egyptian"
+        "Crab --[orchard]--> and Egyptian",
+        "Kesari --[veer:]--> Kesari Veer",
+        "The --[film]--> co-produced"
     ]
 }
