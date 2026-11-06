@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "located",
-        "Patterns",
         "\"Patterns Force\"",
         "Wall",
         "Survivor: Wall",
@@ -99,10 +97,11 @@
         "village Somogy",
         "Capri",
         "Capri Mensa",
-        "Within (Savage"
+        "Within (Savage",
+        "Crab",
+        "and Egyptian"
     ],
     "edges": [
-        "Its --[official]--> name West",
         "Leticia --[cline:]--> Leticia Ann",
         "Leticia --[cline]--> American journalist",
         "She --[best]--> known former",
@@ -251,6 +250,7 @@
         "Chatter --[creek]--> Guard Station:",
         "Kéthely: --[kéthely]--> village Somogy",
         "Capri --[mensa:]--> Capri Mensa",
-        "The --[enemy]--> Within (Savage"
+        "The --[enemy]--> Within (Savage",
+        "Crab --[orchard]--> and Egyptian"
     ]
 }
