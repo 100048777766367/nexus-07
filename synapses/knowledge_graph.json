@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "1837 anti-sla",
-        "Charlotta",
         "Charlotta Fredrika",
         "Miguel",
         "Miguel Ángel",
@@ -99,10 +97,11 @@
         "Montargis:",
         "commune and",
         "Abner",
-        "Abner Warren"
+        "Abner Warren",
+        "Boris",
+        "Boris Andrianovich"
     ],
     "edges": [
-        "Sayed --[ashraful]--> Islam: Sayed",
         "Was --[the]--> general secretary",
         "Patrick --[mcguinness]--> Three-Decker: The",
         "Anderson --[historic]--> District (Anderson,",
@@ -251,6 +250,7 @@
         "The --[film]--> co-produced",
         "Harry --[morgan]--> (footballer): William",
         "Montargis: --[montargis]--> commune and",
-        "Abner --[biberman:]--> Abner Warren"
+        "Abner --[biberman:]--> Abner Warren",
+        "Boris --[stenin:]--> Boris Andrianovich"
     ]
 }
