@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Knox",
-        "(Illinois): Knox",
         "1837 anti-sla",
         "Charlotta",
         "Charlotta Fredrika",
@@ -99,10 +97,11 @@
         "Harry",
         "(footballer): William",
         "Montargis:",
-        "commune and"
+        "commune and",
+        "Abner",
+        "Abner Warren"
     ],
     "edges": [
-        "Batalha --[monastery:]--> The Monastery",
         "Sayed --[ashraful]--> Islam: Sayed",
         "Was --[the]--> general secretary",
         "Patrick --[mcguinness]--> Three-Decker: The",
@@ -251,6 +250,7 @@
         "Kesari --[veer:]--> Kesari Veer",
         "The --[film]--> co-produced",
         "Harry --[morgan]--> (footballer): William",
-        "Montargis: --[montargis]--> commune and"
+        "Montargis: --[montargis]--> commune and",
+        "Abner --[biberman:]--> Abner Warren"
     ]
 }
