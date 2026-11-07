@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Park",
-        "District: The",
         "Knox",
         "(Illinois): Knox",
         "1837 anti-sla",
@@ -99,10 +97,11 @@
         "Kesari Veer",
         "co-produced",
         "Harry",
-        "(footballer): William"
+        "(footballer): William",
+        "Montargis:",
+        "commune and"
     ],
     "edges": [
-        "Showalter: --[joseph]--> Baltzell Showalter",
         "Batalha --[monastery:]--> The Monastery",
         "Sayed --[ashraful]--> Islam: Sayed",
         "Was --[the]--> general secretary",
@@ -251,6 +250,7 @@
         "Crab --[orchard]--> and Egyptian",
         "Kesari --[veer:]--> Kesari Veer",
         "The --[film]--> co-produced",
-        "Harry --[morgan]--> (footballer): William"
+        "Harry --[morgan]--> (footballer): William",
+        "Montargis: --[montargis]--> commune and"
     ]
 }
