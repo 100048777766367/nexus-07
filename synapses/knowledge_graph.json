@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Charlotta Fredrika",
-        "Miguel",
-        "Miguel Ángel",
-        "Saint",
         "Saint Oda",
         "Clarkson:",
         "Sullivan Clarkson,",
@@ -99,11 +95,13 @@
         "Abner",
         "Abner Warren",
         "Boris",
-        "Boris Andrianovich"
+        "Boris Andrianovich",
+        "Nasarawa",
+        "Football Club",
+        "They",
+        "the Nigeria"
     ],
     "edges": [
-        "Was --[the]--> general secretary",
-        "Patrick --[mcguinness]--> Three-Decker: The",
         "Anderson --[historic]--> District (Anderson,",
         "The --[amount]--> cotton being",
         "Rara --[(service):]--> rara was",
@@ -251,6 +249,8 @@
         "Harry --[morgan]--> (footballer): William",
         "Montargis: --[montargis]--> commune and",
         "Abner --[biberman:]--> Abner Warren",
-        "Boris --[stenin:]--> Boris Andrianovich"
+        "Boris --[stenin:]--> Boris Andrianovich",
+        "Nasarawa --[united]--> Football Club",
+        "They --[play]--> the Nigeria"
     ]
 }
