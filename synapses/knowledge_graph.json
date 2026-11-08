@@ -1,6 +1,5 @@
 {
     "nodes": [
-        "Saint Oda",
         "Clarkson:",
         "Sullivan Clarkson,",
         "Fatawa",
@@ -99,10 +98,10 @@
         "Nasarawa",
         "Football Club",
         "They",
-        "the Nigeria"
+        "the Nigeria",
+        "Slack FRSE"
     ],
     "edges": [
-        "Anderson --[historic]--> District (Anderson,",
         "The --[amount]--> cotton being",
         "Rara --[(service):]--> rara was",
         "Operated --[between]--> December 2011",
@@ -251,6 +250,7 @@
         "Abner --[biberman:]--> Abner Warren",
         "Boris --[stenin:]--> Boris Andrianovich",
         "Nasarawa --[united]--> Football Club",
-        "They --[play]--> the Nigeria"
+        "They --[play]--> the Nigeria",
+        "Harry --[dawson]--> Slack FRSE"
     ]
 }
