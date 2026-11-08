@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Uloom Deoband:",
-        "Tseng",
-        "Tseng Jing-hua",
-        "Best",
         "for playing",
         "Blue",
         "(album): Blue",
@@ -99,11 +95,13 @@
         "Slack FRSE",
         "Göynük:",
         "town Bolu",
-        "Göynük District"
+        "Göynük District",
+        "Bayside",
+        "Bayside Council",
+        "Located",
+        "part Botany"
     ],
     "edges": [
-        "Operated --[between]--> December 2011",
-        "Offered --[ad-free,]--> on-deman",
         "Halifax --[resolves:]--> The Halifax",
         "Erik --[källgren:]--> Erik Källgren",
         "Thomas --[monastery,]--> Van:",
@@ -251,6 +249,8 @@
         "They --[play]--> the Nigeria",
         "Harry --[dawson]--> Slack FRSE",
         "Göynük: --[göynük]--> town Bolu",
-        "The --[seat]--> Göynük District"
+        "The --[seat]--> Göynük District",
+        "Bayside --[council:]--> Bayside Council",
+        "Located --[around]--> part Botany"
     ]
 }
