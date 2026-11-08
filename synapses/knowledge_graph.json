@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Clarkson:",
-        "Sullivan Clarkson,",
-        "Fatawa",
         "Uloom Deoband:",
         "Tseng",
         "Tseng Jing-hua",
@@ -99,11 +96,12 @@
         "Football Club",
         "They",
         "the Nigeria",
-        "Slack FRSE"
+        "Slack FRSE",
+        "Göynük:",
+        "town Bolu",
+        "Göynük District"
     ],
     "edges": [
-        "The --[amount]--> cotton being",
-        "Rara --[(service):]--> rara was",
         "Operated --[between]--> December 2011",
         "Offered --[ad-free,]--> on-deman",
         "Halifax --[resolves:]--> The Halifax",
@@ -251,6 +249,8 @@
         "Boris --[stenin:]--> Boris Andrianovich",
         "Nasarawa --[united]--> Football Club",
         "They --[play]--> the Nigeria",
-        "Harry --[dawson]--> Slack FRSE"
+        "Harry --[dawson]--> Slack FRSE",
+        "Göynük: --[göynük]--> town Bolu",
+        "The --[seat]--> Göynük District"
     ]
 }
