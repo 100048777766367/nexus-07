@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Chaerophyllum colensoi,",
-        "Supracondylar",
-        "fracture: supracondylar",
-        "The",
         "usually",
         "Mother",
         "Mother Disease",
@@ -99,11 +95,13 @@
         "Virginia",
         "Route 119:",
         "Known",
-        "Road, the"
+        "Road, the",
+        "Brajesh",
+        "Brajesh Singh,",
+        "1909",
+        "1966) was"
     ],
     "edges": [
-        "Thomas --[monastery,]--> Van:",
-        "Thomas --[monastery]--> ruined Armenian",
         "Drama --[(aespa]--> EP): Drama",
         "Was --[released]--> Entertainment November",
         "Ataíde --[family:]--> Ataíde the",
@@ -251,6 +249,8 @@
         "Bayside --[council:]--> Bayside Council",
         "Located --[around]--> part Botany",
         "Virginia --[state]--> Route 119:",
-        "Known --[calvary]--> Road, the"
+        "Known --[calvary]--> Road, the",
+        "Brajesh --[singh:]--> Brajesh Singh,",
+        "1909 --[october]--> 1966) was"
     ]
 }
