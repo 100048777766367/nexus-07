@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "for playing",
-        "Blue",
-        "(album): Blue",
-        "Chaerophyllum",
         "Chaerophyllum colensoi,",
         "Supracondylar",
         "fracture: supracondylar",
@@ -99,11 +95,13 @@
         "Bayside",
         "Bayside Council",
         "Located",
-        "part Botany"
+        "part Botany",
+        "Virginia",
+        "Route 119:",
+        "Known",
+        "Road, the"
     ],
     "edges": [
-        "Halifax --[resolves:]--> The Halifax",
-        "Erik --[källgren:]--> Erik Källgren",
         "Thomas --[monastery,]--> Van:",
         "Thomas --[monastery]--> ruined Armenian",
         "Drama --[(aespa]--> EP): Drama",
@@ -251,6 +249,8 @@
         "Göynük: --[göynük]--> town Bolu",
         "The --[seat]--> Göynük District",
         "Bayside --[council:]--> Bayside Council",
-        "Located --[around]--> part Botany"
+        "Located --[around]--> part Botany",
+        "Virginia --[state]--> Route 119:",
+        "Known --[calvary]--> Road, the"
     ]
 }
