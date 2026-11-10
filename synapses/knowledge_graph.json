@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "usually",
-        "Mother",
         "Mother Disease",
         "Remastered",
         "was released",
@@ -99,10 +97,11 @@
         "Brajesh",
         "Brajesh Singh,",
         "1909",
-        "1966) was"
+        "1966) was",
+        "Blondie",
+        "Cupid: Blondie"
     ],
     "edges": [
-        "Drama --[(aespa]--> EP): Drama",
         "Was --[released]--> Entertainment November",
         "Ataíde --[family:]--> Ataíde the",
         "New --[sweden,]--> Maine: New",
@@ -251,6 +250,7 @@
         "Virginia --[state]--> Route 119:",
         "Known --[calvary]--> Road, the",
         "Brajesh --[singh:]--> Brajesh Singh,",
-        "1909 --[october]--> 1966) was"
+        "1909 --[october]--> 1966) was",
+        "Blondie --[plays]--> Cupid: Blondie"
     ]
 }
