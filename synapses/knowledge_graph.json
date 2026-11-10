@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Mother Disease",
-        "Remastered",
         "was released",
         "Lackenby:",
         "small village",
@@ -99,10 +97,11 @@
         "1909",
         "1966) was",
         "Blondie",
-        "Cupid: Blondie"
+        "Cupid: Blondie",
+        "Vouillé-les-marais:",
+        "commune the"
     ],
     "edges": [
-        "Was --[released]--> Entertainment November",
         "Ataíde --[family:]--> Ataíde the",
         "New --[sweden,]--> Maine: New",
         "The --[population]--> was 577",
@@ -251,6 +250,7 @@
         "Known --[calvary]--> Road, the",
         "Brajesh --[singh:]--> Brajesh Singh,",
         "1909 --[october]--> 1966) was",
-        "Blondie --[plays]--> Cupid: Blondie"
+        "Blondie --[plays]--> Cupid: Blondie",
+        "Vouillé-les-marais: --[vouillé-les-marais]--> commune the"
     ]
 }
