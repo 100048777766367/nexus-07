@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "was released",
-        "Lackenby:",
         "small village",
         "Situated",
         "immediate east",
@@ -99,10 +97,11 @@
         "Blondie",
         "Cupid: Blondie",
         "Vouillé-les-marais:",
-        "commune the"
+        "commune the",
+        "Culverwell",
+        "Site: Culverwell"
     ],
     "edges": [
-        "Ataíde --[family:]--> Ataíde the",
         "New --[sweden,]--> Maine: New",
         "The --[population]--> was 577",
         "Willie --[o'ree:]--> William Eldon",
@@ -251,6 +250,7 @@
         "Brajesh --[singh:]--> Brajesh Singh,",
         "1909 --[october]--> 1966) was",
         "Blondie --[plays]--> Cupid: Blondie",
-        "Vouillé-les-marais: --[vouillé-les-marais]--> commune the"
+        "Vouillé-les-marais: --[vouillé-les-marais]--> commune the",
+        "Culverwell --[mesolithic]--> Site: Culverwell"
     ]
 }
