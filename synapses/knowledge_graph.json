@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Brigade (Ukraine):",
-        "Mława",
-        "Mława County",
-        "Divine",
         "film): Divine",
         "Šarovy:",
         "municipality and",
@@ -99,11 +95,13 @@
         "The",
         "School Watchmaking:",
         "West",
-        "Housing Infrastructure"
+        "Housing Infrastructure",
+        "Phirphire",
+        "Phirphire 2016",
+        "Published",
+        "Publication"
     ],
     "edges": [
-        "Willie --[o'ree:]--> William Eldon",
-        "Guy --[carbonneau:]--> Joseph Harry",
         "Medborgarplatsen --[metro]--> station: Medborgarplatsen,",
         "Spirillum: --[spirillum]--> genus",
         "Gram-negative --[bacteria]--> the family",
@@ -251,6 +249,8 @@
         "Vouillé-les-marais: --[vouillé-les-marais]--> commune the",
         "Culverwell --[mesolithic]--> Site: Culverwell",
         "The --[geneva]--> School Watchmaking:",
-        "West --[bengal]--> Housing Infrastructure"
+        "West --[bengal]--> Housing Infrastructure",
+        "Phirphire --[(novel):]--> Phirphire 2016",
+        "Published --[fineprint]--> Publication"
     ]
 }
