@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "immediate east",
-        "71st",
         "Brigade (Ukraine):",
         "Mława",
         "Mława County",
@@ -99,10 +97,11 @@
         "Culverwell",
         "Site: Culverwell",
         "The",
-        "School Watchmaking:"
+        "School Watchmaking:",
+        "West",
+        "Housing Infrastructure"
     ],
     "edges": [
-        "The --[population]--> was 577",
         "Willie --[o'ree:]--> William Eldon",
         "Guy --[carbonneau:]--> Joseph Harry",
         "Medborgarplatsen --[metro]--> station: Medborgarplatsen,",
@@ -251,6 +250,7 @@
         "Blondie --[plays]--> Cupid: Blondie",
         "Vouillé-les-marais: --[vouillé-les-marais]--> commune the",
         "Culverwell --[mesolithic]--> Site: Culverwell",
-        "The --[geneva]--> School Watchmaking:"
+        "The --[geneva]--> School Watchmaking:",
+        "West --[bengal]--> Housing Infrastructure"
     ]
 }
