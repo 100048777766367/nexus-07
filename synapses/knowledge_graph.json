@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "small village",
-        "Situated",
         "immediate east",
         "71st",
         "Brigade (Ukraine):",
@@ -99,10 +97,11 @@
         "Vouillé-les-marais:",
         "commune the",
         "Culverwell",
-        "Site: Culverwell"
+        "Site: Culverwell",
+        "The",
+        "School Watchmaking:"
     ],
     "edges": [
-        "New --[sweden,]--> Maine: New",
         "The --[population]--> was 577",
         "Willie --[o'ree:]--> William Eldon",
         "Guy --[carbonneau:]--> Joseph Harry",
@@ -251,6 +250,7 @@
         "1909 --[october]--> 1966) was",
         "Blondie --[plays]--> Cupid: Blondie",
         "Vouillé-les-marais: --[vouillé-les-marais]--> commune the",
-        "Culverwell --[mesolithic]--> Site: Culverwell"
+        "Culverwell --[mesolithic]--> Site: Culverwell",
+        "The --[geneva]--> School Watchmaking:"
     ]
 }
