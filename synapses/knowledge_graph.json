@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "film): Divine",
-        "Šarovy:",
         "municipality and",
         "Has",
         "300 inhabit",
@@ -99,10 +97,11 @@
         "Phirphire",
         "Phirphire 2016",
         "Published",
-        "Publication"
+        "Publication",
+        "Goo",
+        "Dolls discography:"
     ],
     "edges": [
-        "Medborgarplatsen --[metro]--> station: Medborgarplatsen,",
         "Spirillum: --[spirillum]--> genus",
         "Gram-negative --[bacteria]--> the family",
         "Žemaitkiemis --[meteorite:]--> Žemaitkiemis meteorite",
@@ -251,6 +250,7 @@
         "The --[geneva]--> School Watchmaking:",
         "West --[bengal]--> Housing Infrastructure",
         "Phirphire --[(novel):]--> Phirphire 2016",
-        "Published --[fineprint]--> Publication"
+        "Published --[fineprint]--> Publication",
+        "Goo --[goo]--> Dolls discography:"
     ]
 }
