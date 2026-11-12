@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "municipality and",
-        "Has",
         "300 inhabit",
         "Uss",
         "USS Grouper",
@@ -99,10 +97,11 @@
         "Published",
         "Publication",
         "Goo",
-        "Dolls discography:"
+        "Dolls discography:",
+        "John",
+        "(sportswriter): John"
     ],
     "edges": [
-        "Spirillum: --[spirillum]--> genus",
         "Gram-negative --[bacteria]--> the family",
         "Žemaitkiemis --[meteorite:]--> Žemaitkiemis meteorite",
         "Colonel --[acland]--> and Lord",
@@ -251,6 +250,7 @@
         "West --[bengal]--> Housing Infrastructure",
         "Phirphire --[(novel):]--> Phirphire 2016",
         "Published --[fineprint]--> Publication",
-        "Goo --[goo]--> Dolls discography:"
+        "Goo --[goo]--> Dolls discography:",
+        "John --[carmichael]--> (sportswriter): John"
     ]
 }
