@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "300 inhabit",
-        "Uss",
         "USS Grouper",
         "Hugo",
         "Gálvez: Hugo",
@@ -99,10 +97,11 @@
         "Goo",
         "Dolls discography:",
         "John",
-        "(sportswriter): John"
+        "(sportswriter): John",
+        "Froland",
+        "Froland Church"
     ],
     "edges": [
-        "Gram-negative --[bacteria]--> the family",
         "Žemaitkiemis --[meteorite:]--> Žemaitkiemis meteorite",
         "Colonel --[acland]--> and Lord",
         "Voices --[sarafina!:]--> Voices Sarafina!",
@@ -251,6 +250,7 @@
         "Phirphire --[(novel):]--> Phirphire 2016",
         "Published --[fineprint]--> Publication",
         "Goo --[goo]--> Dolls discography:",
-        "John --[carmichael]--> (sportswriter): John"
+        "John --[carmichael]--> (sportswriter): John",
+        "Froland --[church:]--> Froland Church"
     ]
 }
