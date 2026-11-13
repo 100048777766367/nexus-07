@@ -1,6 +1,5 @@
 {
     "nodes": [
-        "USS Grouper",
         "Hugo",
         "Gálvez: Hugo",
         "Cochleanthes:",
@@ -99,10 +98,10 @@
         "John",
         "(sportswriter): John",
         "Froland",
-        "Froland Church"
+        "Froland Church",
+        "Spider-Man (2014"
     ],
     "edges": [
-        "Žemaitkiemis --[meteorite:]--> Žemaitkiemis meteorite",
         "Colonel --[acland]--> and Lord",
         "Voices --[sarafina!:]--> Voices Sarafina!",
         "2017 --[phillip]--> Island 500:",
@@ -251,6 +250,7 @@
         "Published --[fineprint]--> Publication",
         "Goo --[goo]--> Dolls discography:",
         "John --[carmichael]--> (sportswriter): John",
-        "Froland --[church:]--> Froland Church"
+        "Froland --[church:]--> Froland Church",
+        "The --[amazing]--> Spider-Man (2014"
     ]
 }
