@@ -1,10 +1,5 @@
 {
     "nodes": [
-        "Hugo",
-        "Gálvez: Hugo",
-        "Cochleanthes:",
-        "genus Cochleanthes",
-        "Oberbrechen",
         "Oberbrechen station",
         "Ted",
         "Edgar Arthur",
@@ -99,12 +94,14 @@
         "(sportswriter): John",
         "Froland",
         "Froland Church",
-        "Spider-Man (2014"
+        "Spider-Man (2014",
+        "Seconds",
+        "Seconds the",
+        "Was",
+        "1994 MCA",
+        "peaked"
     ],
     "edges": [
-        "Colonel --[acland]--> and Lord",
-        "Voices --[sarafina!:]--> Voices Sarafina!",
-        "2017 --[phillip]--> Island 500:",
         "Bazentin-le-petit --[communal]--> Cemetery Extension:",
         "Kuntillet --[ajrud]--> inscriptions: The",
         "Provident --[(constituency):]--> Provident one",
@@ -251,6 +248,9 @@
         "Goo --[goo]--> Dolls discography:",
         "John --[carmichael]--> (sportswriter): John",
         "Froland --[church:]--> Froland Church",
-        "The --[amazing]--> Spider-Man (2014"
+        "The --[amazing]--> Spider-Man (2014",
+        "Seconds --[(soundtrack):]--> Seconds the",
+        "Was --[released]--> 1994 MCA",
+        "The --[album]--> peaked"
     ]
 }
