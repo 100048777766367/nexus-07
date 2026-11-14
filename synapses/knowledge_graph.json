@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "radio station",
-        "Seychelles:",
         "officially the",
         "Belafonte",
         "Carnegie Hall:",
@@ -99,10 +97,11 @@
         "Shepreth:",
         "small village",
         "Daniel",
-        "Daniel Shek"
+        "Daniel Shek",
+        "Albert",
+        "Albert Sturgess"
     ],
     "edges": [
-        "Provident --[(constituency):]--> Provident one",
         "Melphina: --[melphina]--> genus skipper",
         "Alfred --[seaman:]--> Alfred Seaman",
         "Home --[page:]--> home page",
@@ -251,6 +250,7 @@
         "Was --[released]--> 1994 MCA",
         "The --[album]--> peaked",
         "Shepreth: --[shepreth]--> small village",
-        "Daniel --[shek:]--> Daniel Shek"
+        "Daniel --[shek:]--> Daniel Shek",
+        "Albert --[sturgess:]--> Albert Sturgess"
     ]
 }
