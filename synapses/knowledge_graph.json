@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Edgar Arthur",
-        "Ktls-fm:",
         "radio station",
         "Seychelles:",
         "officially the",
@@ -99,10 +97,11 @@
         "1994 MCA",
         "peaked",
         "Shepreth:",
-        "small village"
+        "small village",
+        "Daniel",
+        "Daniel Shek"
     ],
     "edges": [
-        "Kuntillet --[ajrud]--> inscriptions: The",
         "Provident --[(constituency):]--> Provident one",
         "Melphina: --[melphina]--> genus skipper",
         "Alfred --[seaman:]--> Alfred Seaman",
@@ -251,6 +250,7 @@
         "Seconds --[(soundtrack):]--> Seconds the",
         "Was --[released]--> 1994 MCA",
         "The --[album]--> peaked",
-        "Shepreth: --[shepreth]--> small village"
+        "Shepreth: --[shepreth]--> small village",
+        "Daniel --[shek:]--> Daniel Shek"
     ]
 }
