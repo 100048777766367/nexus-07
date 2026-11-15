@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "August",
-        "The following",
-        "Zákány:",
-        "village Hungary",
         "Energetically",
         "cement: Energetically",
         "Battle",
@@ -99,11 +95,13 @@
         "species genus",
         "Everything",
         "Where Ends:",
-        "2007"
+        "2007",
+        "Carlisle",
+        "Carlisle Sessions",
+        "These",
+        "works, for"
     ],
     "edges": [
-        "Kaththi --[(soundtrack):]--> Kaththi the",
-        "The --[film,]--> dir",
         "Summerslam --[(2006):]--> The 2006",
         "Orlando --[cossani:]--> Orlando Cossani",
         "Competed --[the]--> men's 200",
@@ -251,6 +249,8 @@
         "Pontechium: --[pontechium]--> maculatum species",
         "The --[sole]--> species genus",
         "Everything --[starts]--> Where Ends:",
-        "Was --[released]--> 2007"
+        "Was --[released]--> 2007",
+        "Carlisle --[floyd:]--> Carlisle Sessions",
+        "These --[stage]--> works, for"
     ]
 }
