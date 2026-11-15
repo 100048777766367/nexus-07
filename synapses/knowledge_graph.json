@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "officially the",
-        "Belafonte",
         "Carnegie Hall:",
         "two Belafonte",
         "Abbas",
@@ -99,10 +97,11 @@
         "Daniel",
         "Daniel Shek",
         "Albert",
-        "Albert Sturgess"
+        "Albert Sturgess",
+        "Boyer–moore",
+        "vote algorithm:"
     ],
     "edges": [
-        "Melphina: --[melphina]--> genus skipper",
         "Alfred --[seaman:]--> Alfred Seaman",
         "Home --[page:]--> home page",
         "Usually, --[the]--> home page",
@@ -251,6 +250,7 @@
         "The --[album]--> peaked",
         "Shepreth: --[shepreth]--> small village",
         "Daniel --[shek:]--> Daniel Shek",
-        "Albert --[sturgess:]--> Albert Sturgess"
+        "Albert --[sturgess:]--> Albert Sturgess",
+        "Boyer–moore --[majority]--> vote algorithm:"
     ]
 }
