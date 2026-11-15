@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Abbas Araghchi",
-        "Projection:",
-        "design technique",
         "August",
         "The following",
         "Zákány:",
@@ -99,11 +96,12 @@
         "vote algorithm:",
         "Pontechium:",
         "maculatum species",
-        "species genus"
+        "species genus",
+        "Everything",
+        "Where Ends:",
+        "2007"
     ],
     "edges": [
-        "Usually, --[the]--> home page",
-        "Strategic --[studies]--> Group: Strategic",
         "Kaththi --[(soundtrack):]--> Kaththi the",
         "The --[film,]--> dir",
         "Summerslam --[(2006):]--> The 2006",
@@ -251,6 +249,8 @@
         "Albert --[sturgess:]--> Albert Sturgess",
         "Boyer–moore --[majority]--> vote algorithm:",
         "Pontechium: --[pontechium]--> maculatum species",
-        "The --[sole]--> species genus"
+        "The --[sole]--> species genus",
+        "Everything --[starts]--> Where Ends:",
+        "Was --[released]--> 2007"
     ]
 }
