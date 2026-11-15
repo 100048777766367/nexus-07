@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Carnegie Hall:",
-        "two Belafonte",
-        "Abbas",
         "Abbas Araghchi",
         "Projection:",
         "design technique",
@@ -99,11 +96,12 @@
         "Albert",
         "Albert Sturgess",
         "Boyer–moore",
-        "vote algorithm:"
+        "vote algorithm:",
+        "Pontechium:",
+        "maculatum species",
+        "species genus"
     ],
     "edges": [
-        "Alfred --[seaman:]--> Alfred Seaman",
-        "Home --[page:]--> home page",
         "Usually, --[the]--> home page",
         "Strategic --[studies]--> Group: Strategic",
         "Kaththi --[(soundtrack):]--> Kaththi the",
@@ -251,6 +249,8 @@
         "Shepreth: --[shepreth]--> small village",
         "Daniel --[shek:]--> Daniel Shek",
         "Albert --[sturgess:]--> Albert Sturgess",
-        "Boyer–moore --[majority]--> vote algorithm:"
+        "Boyer–moore --[majority]--> vote algorithm:",
+        "Pontechium: --[pontechium]--> maculatum species",
+        "The --[sole]--> species genus"
     ]
 }
