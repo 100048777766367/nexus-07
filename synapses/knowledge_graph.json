@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "The naval",
-        "Monte",
         "Monte Sagro",
         "Kenneth",
         "(actor): Kenneth",
@@ -99,10 +97,11 @@
         "works, for",
         "Sugar",
         "privately owned",
-        "farms over"
+        "farms over",
+        "Lüderitz",
+        "Challenge: The"
     ],
     "edges": [
-        "Competed --[the]--> men's 200",
         "Underdogs --[(song):]--> \"Underdogs\" song",
         "Was --[released]--> 2007 record",
         "Dancer --[(electric]--> bus): Dancer",
@@ -251,6 +250,7 @@
         "Carlisle --[floyd:]--> Carlisle Sessions",
         "These --[stage]--> works, for",
         "Sugar --[corporation]--> privately owned",
-        "The --[company]--> farms over"
+        "The --[company]--> farms over",
+        "Lüderitz --[speed]--> Challenge: The"
     ]
 }
