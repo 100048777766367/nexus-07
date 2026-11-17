@@ -1,7 +1,7 @@
 {
-    "epoch": 174,
-    "coherence_index": 0.5303,
-    "collective_phase_rad": 5.1025,
+    "epoch": 175,
+    "coherence_index": 0.5212,
+    "collective_phase_rad": 5.1153,
     "active_oscillators": 17,
     "status": "Coupling_In_Progress"
 }

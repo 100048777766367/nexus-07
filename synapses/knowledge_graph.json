@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Martine",
-        "Martine Martinel",
-        "She",
         "Haute-Garonne's 4th",
         "Chatter",
         "Guard Station:",
@@ -99,11 +96,12 @@
         "2013–14",
         "Vale",
         "Season:",
-        "2013–14 season"
+        "2013–14 season",
+        "Arizona",
+        "Genesis Brillantes",
+        "known for"
     ],
     "edges": [
-        "Test --[preparation:]--> Test preparation",
-        "Martin --[müller]--> (footballer, born",
         "Juntos --[por]--> Cambio: Juntos",
         "Liberal --[coalition,]--> was created",
         "East --[ravenswood]--> Historic District:",
@@ -251,6 +249,8 @@
         "Delyan --[dobrev:]--> Delyan Dobrev",
         "Was --[the]--> Deputy Bulgarian",
         "2013–14 --[port]--> Vale",
-        "Season: --[the]--> 2013–14 season"
+        "Season: --[the]--> 2013–14 season",
+        "Arizona --[brandy:]--> Genesis Brillantes",
+        "She --[best]--> known for"
     ]
 }
