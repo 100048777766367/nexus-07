@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Mcmillan",
-        "usually cast",
-        "Ernesto",
-        "(racing driver):",
         "Martine",
         "Martine Martinel",
         "She",
@@ -99,11 +95,13 @@
         "Challenge: The",
         "Delyan",
         "Delyan Dobrev",
-        "Deputy Bulgarian"
+        "Deputy Bulgarian",
+        "2013–14",
+        "Vale",
+        "Season:",
+        "2013–14 season"
     ],
     "edges": [
-        "Dancer --[(electric]--> bus): Dancer",
-        "The --[electric]--> bus",
         "Test --[preparation:]--> Test preparation",
         "Martin --[müller]--> (footballer, born",
         "Juntos --[por]--> Cambio: Juntos",
@@ -251,6 +249,8 @@
         "The --[company]--> farms over",
         "Lüderitz --[speed]--> Challenge: The",
         "Delyan --[dobrev:]--> Delyan Dobrev",
-        "Was --[the]--> Deputy Bulgarian"
+        "Was --[the]--> Deputy Bulgarian",
+        "2013–14 --[port]--> Vale",
+        "Season: --[the]--> 2013–14 season"
     ]
 }
