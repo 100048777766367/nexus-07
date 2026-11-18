@@ -1,11 +1,5 @@
 {
     "nodes": [
-        "Haute-Garonne's 4th",
-        "Chatter",
-        "Guard Station:",
-        "Kéthely:",
-        "village Somogy",
-        "Capri",
         "Capri Mensa",
         "Within (Savage",
         "Crab",
@@ -99,12 +93,15 @@
         "2013–14 season",
         "Arizona",
         "Genesis Brillantes",
-        "known for"
+        "known for",
+        "Utah",
+        "Route 13:",
+        "841",
+        "(52",
+        "852",
+        "parallel I-15"
     ],
     "edges": [
-        "Juntos --[por]--> Cambio: Juntos",
-        "Liberal --[coalition,]--> was created",
-        "East --[ravenswood]--> Historic District:",
         "Epicillin: --[epicillin]--> (INN) penicillin",
         "Not --[approved]--> the FDA",
         "Karl --[malus]--> fictional mad",
@@ -251,6 +248,9 @@
         "2013–14 --[port]--> Vale",
         "Season: --[the]--> 2013–14 season",
         "Arizona --[brandy:]--> Genesis Brillantes",
-        "She --[best]--> known for"
+        "She --[best]--> known for",
+        "Utah --[state]--> Route 13:",
+        "841 --[miles]--> (52",
+        "852 --[km)]--> parallel I-15"
     ]
 }
