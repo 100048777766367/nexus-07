@@ -1,6 +1,5 @@
 {
     "nodes": [
-        "Capri Mensa",
         "Within (Savage",
         "Crab",
         "and Egyptian",
@@ -99,10 +98,10 @@
         "841",
         "(52",
         "852",
-        "parallel I-15"
+        "parallel I-15",
+        "Hampton Art"
     ],
     "edges": [
-        "Epicillin: --[epicillin]--> (INN) penicillin",
         "Not --[approved]--> the FDA",
         "Karl --[malus]--> fictional mad",
         "Hemionitis: --[hemionitis]--> genus ferns",
@@ -251,6 +250,7 @@
         "She --[best]--> known for",
         "Utah --[state]--> Route 13:",
         "841 --[miles]--> (52",
-        "852 --[km)]--> parallel I-15"
+        "852 --[km)]--> parallel I-15",
+        "The --[lionel]--> Hampton Art"
     ]
 }
