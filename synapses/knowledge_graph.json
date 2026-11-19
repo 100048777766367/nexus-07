@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Within (Savage",
-        "Crab",
-        "and Egyptian",
-        "Kesari",
         "Kesari Veer",
         "co-produced",
         "Harry",
@@ -99,11 +95,13 @@
         "(52",
         "852",
         "parallel I-15",
-        "Hampton Art"
+        "Hampton Art",
+        "Kitami",
+        "(Hokkaido): Kitami",
+        "Its",
+        "number A60"
     ],
     "edges": [
-        "Not --[approved]--> the FDA",
-        "Karl --[malus]--> fictional mad",
         "Hemionitis: --[hemionitis]--> genus ferns",
         "Its --[circumscription]--> varies",
         "Esha --[chawla:]--> Esha Chawla",
@@ -251,6 +249,8 @@
         "Utah --[state]--> Route 13:",
         "841 --[miles]--> (52",
         "852 --[km)]--> parallel I-15",
-        "The --[lionel]--> Hampton Art"
+        "The --[lionel]--> Hampton Art",
+        "Kitami --[station]--> (Hokkaido): Kitami",
+        "Its --[station]--> number A60"
     ]
 }
