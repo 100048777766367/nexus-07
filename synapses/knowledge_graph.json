@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Kesari Veer",
-        "co-produced",
         "Harry",
         "(footballer): William",
         "Montargis:",
@@ -99,10 +97,11 @@
         "Kitami",
         "(Hokkaido): Kitami",
         "Its",
-        "number A60"
+        "number A60",
+        "Emilio",
+        "Emilio Agradi"
     ],
     "edges": [
-        "Hemionitis: --[hemionitis]--> genus ferns",
         "Its --[circumscription]--> varies",
         "Esha --[chawla:]--> Esha Chawla",
         "She --[made]--> her debut",
@@ -251,6 +250,7 @@
         "852 --[km)]--> parallel I-15",
         "The --[lionel]--> Hampton Art",
         "Kitami --[station]--> (Hokkaido): Kitami",
-        "Its --[station]--> number A60"
+        "Its --[station]--> number A60",
+        "Emilio --[agradi:]--> Emilio Agradi"
     ]
 }
