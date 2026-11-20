@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Nasarawa",
-        "Football Club",
         "They",
         "the Nigeria",
         "Slack FRSE",
@@ -99,10 +97,11 @@
         "Fox-matamua",
         "Zealand rugby",
         "His",
-        "Number"
+        "Number",
+        "109",
+        "109 1963"
     ],
     "edges": [
-        "Heba --[amin:]--> Heba",
         "Amin --[visual]--> artist, researcher",
         "Eurolat: --[eurolat,]--> the Euro–Latin",
         "Hezekiah --[frith:]--> Hezekiah Frith,",
@@ -251,6 +250,7 @@
         "Was --[the]--> eleventh Supercar",
         "Taina --[fox-matamua:]--> Taina",
         "Fox-matamua --[new]--> Zealand rugby",
-        "His --[position]--> Number"
+        "His --[position]--> Number",
+        "109 --[(film):]--> 109 1963"
     ]
 }
