@@ -1,10 +1,5 @@
 {
     "nodes": [
-        "commune and",
-        "Abner",
-        "Abner Warren",
-        "Boris",
-        "Boris Andrianovich",
         "Nasarawa",
         "Football Club",
         "They",
@@ -99,12 +94,14 @@
         "Emilio Agradi",
         "2009",
         "500: The",
-        "eleventh Supercar"
+        "eleventh Supercar",
+        "Taina",
+        "Fox-matamua",
+        "Zealand rugby",
+        "His",
+        "Number"
     ],
     "edges": [
-        "She --[made]--> her debut",
-        "Alpi: --[alkaline]--> phosphatase, intestinal,",
-        "Ashford --[steam]--> Centre: Ashford",
         "Heba --[amin:]--> Heba",
         "Amin --[visual]--> artist, researcher",
         "Eurolat: --[eurolat,]--> the Euro–Latin",
@@ -251,6 +248,9 @@
         "Its --[station]--> number A60",
         "Emilio --[agradi:]--> Emilio Agradi",
         "2009 --[adelaide]--> 500: The",
-        "Was --[the]--> eleventh Supercar"
+        "Was --[the]--> eleventh Supercar",
+        "Taina --[fox-matamua:]--> Taina",
+        "Fox-matamua --[new]--> Zealand rugby",
+        "His --[position]--> Number"
     ]
 }
