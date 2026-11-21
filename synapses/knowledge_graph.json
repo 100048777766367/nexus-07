@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "They",
-        "the Nigeria",
-        "Slack FRSE",
-        "Göynük:",
         "town Bolu",
         "Göynük District",
         "Bayside",
@@ -99,11 +95,13 @@
         "His",
         "Number",
         "109",
-        "109 1963"
+        "109 1963",
+        "Marcus",
+        "Marcus Bateman",
+        "Bateman",
+        "born Bermuda"
     ],
     "edges": [
-        "Amin --[visual]--> artist, researcher",
-        "Eurolat: --[eurolat,]--> the Euro–Latin",
         "Hezekiah --[frith:]--> Hezekiah Frith,",
         "Was --[bermudian]--> shipowner, privateer",
         "One --[the]--> richest men",
@@ -251,6 +249,8 @@
         "Taina --[fox-matamua:]--> Taina",
         "Fox-matamua --[new]--> Zealand rugby",
         "His --[position]--> Number",
-        "109 --[(film):]--> 109 1963"
+        "109 --[(film):]--> 109 1963",
+        "Marcus --[bateman:]--> Marcus Bateman",
+        "Bateman --[was]--> born Bermuda"
     ]
 }
