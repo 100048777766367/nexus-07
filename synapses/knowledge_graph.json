@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Bayside",
-        "Bayside Council",
-        "Located",
-        "part Botany",
         "Virginia",
         "Route 119:",
         "Known",
@@ -99,11 +95,13 @@
         "Bateman",
         "born Bermuda",
         "Indirect",
-        "The indirect"
+        "The indirect",
+        "Pitiuu",
+        "Motu Pitiuu",
+        "Mi)",
+        "the Bora"
     ],
     "edges": [
-        "Was --[bermudian]--> shipowner, privateer",
-        "One --[the]--> richest men",
         "Johnny --[are]--> You Queer?:",
         "Was --[first]--> performed",
         "Sweetgrass --[113:]--> Sweetgrass 113",
@@ -251,6 +249,8 @@
         "109 --[(film):]--> 109 1963",
         "Marcus --[bateman:]--> Marcus Bateman",
         "Bateman --[was]--> born Bermuda",
-        "Indirect --[pathway:]--> The indirect"
+        "Indirect --[pathway:]--> The indirect",
+        "Pitiuu --[uta:]--> Motu Pitiuu",
+        "Mi) --[island]--> the Bora"
     ]
 }
