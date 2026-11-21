@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "town Bolu",
-        "Göynük District",
         "Bayside",
         "Bayside Council",
         "Located",
@@ -99,10 +97,11 @@
         "Marcus",
         "Marcus Bateman",
         "Bateman",
-        "born Bermuda"
+        "born Bermuda",
+        "Indirect",
+        "The indirect"
     ],
     "edges": [
-        "Hezekiah --[frith:]--> Hezekiah Frith,",
         "Was --[bermudian]--> shipowner, privateer",
         "One --[the]--> richest men",
         "Johnny --[are]--> You Queer?:",
@@ -251,6 +250,7 @@
         "His --[position]--> Number",
         "109 --[(film):]--> 109 1963",
         "Marcus --[bateman:]--> Marcus Bateman",
-        "Bateman --[was]--> born Bermuda"
+        "Bateman --[was]--> born Bermuda",
+        "Indirect --[pathway:]--> The indirect"
     ]
 }
