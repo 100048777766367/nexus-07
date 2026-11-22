@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Brajesh",
-        "Brajesh Singh,",
         "1909",
         "1966) was",
         "Blondie",
@@ -99,10 +97,11 @@
         "Thièvres,",
         "Thièvres commune",
         "Naohito",
-        "Naohito Fujiki"
+        "Naohito Fujiki",
+        "Cytisus:",
+        "genus flowering"
     ],
     "edges": [
-        "Sweetgrass --[113:]--> Sweetgrass 113",
         "About --[kilometres]--> (16 mi)",
         "Jupoata: --[jupoata]--> genus longhorn",
         "There --[are]--> about described",
@@ -251,6 +250,7 @@
         "Pitiuu --[uta:]--> Motu Pitiuu",
         "Mi) --[island]--> the Bora",
         "Thièvres, --[somme:]--> Thièvres commune",
-        "Naohito --[fujiki:]--> Naohito Fujiki"
+        "Naohito --[fujiki:]--> Naohito Fujiki",
+        "Cytisus: --[cytisus]--> genus flowering"
     ]
 }
