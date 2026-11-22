@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Known",
-        "Road, the",
         "Brajesh",
         "Brajesh Singh,",
         "1909",
@@ -99,10 +97,11 @@
         "Mi)",
         "the Bora",
         "Thièvres,",
-        "Thièvres commune"
+        "Thièvres commune",
+        "Naohito",
+        "Naohito Fujiki"
     ],
     "edges": [
-        "Was --[first]--> performed",
         "Sweetgrass --[113:]--> Sweetgrass 113",
         "About --[kilometres]--> (16 mi)",
         "Jupoata: --[jupoata]--> genus longhorn",
@@ -251,6 +250,7 @@
         "Indirect --[pathway:]--> The indirect",
         "Pitiuu --[uta:]--> Motu Pitiuu",
         "Mi) --[island]--> the Bora",
-        "Thièvres, --[somme:]--> Thièvres commune"
+        "Thièvres, --[somme:]--> Thièvres commune",
+        "Naohito --[fujiki:]--> Naohito Fujiki"
     ]
 }
