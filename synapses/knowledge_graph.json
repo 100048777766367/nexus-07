@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Virginia",
-        "Route 119:",
         "Known",
         "Road, the",
         "Brajesh",
@@ -99,10 +97,11 @@
         "Pitiuu",
         "Motu Pitiuu",
         "Mi)",
-        "the Bora"
+        "the Bora",
+        "Thièvres,",
+        "Thièvres commune"
     ],
     "edges": [
-        "Johnny --[are]--> You Queer?:",
         "Was --[first]--> performed",
         "Sweetgrass --[113:]--> Sweetgrass 113",
         "About --[kilometres]--> (16 mi)",
@@ -251,6 +250,7 @@
         "Bateman --[was]--> born Bermuda",
         "Indirect --[pathway:]--> The indirect",
         "Pitiuu --[uta:]--> Motu Pitiuu",
-        "Mi) --[island]--> the Bora"
+        "Mi) --[island]--> the Bora",
+        "Thièvres, --[somme:]--> Thièvres commune"
     ]
 }

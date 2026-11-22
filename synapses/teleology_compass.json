@@ -1,8 +1,8 @@
 {
-    "epoch": 185,
-    "bodhi_score": 0.9805,
-    "ahimsa": 0.9757,
-    "prajna": 0.9997,
-    "sunyata": 0.9676,
+    "epoch": 186,
+    "bodhi_score": 0.9569,
+    "ahimsa": 0.9466,
+    "prajna": 0.9987,
+    "sunyata": 0.9288,
     "veto": false
 }
