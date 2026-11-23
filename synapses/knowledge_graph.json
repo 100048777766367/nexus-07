@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Blondie",
-        "Cupid: Blondie",
         "Vouillé-les-marais:",
         "commune the",
         "Culverwell",
@@ -99,10 +97,11 @@
         "Cytisus:",
         "genus flowering",
         "Crossings",
-        "Hancock album):"
+        "Hancock album):",
+        "Hjalmar",
+        "Horace Greeley"
     ],
     "edges": [
-        "Jupoata: --[jupoata]--> genus longhorn",
         "There --[are]--> about described",
         "Mustilia --[sphingiformis]--> gerontica: Mustilia",
         "Was --[first]--> described West",
@@ -251,6 +250,7 @@
         "Thièvres, --[somme:]--> Thièvres commune",
         "Naohito --[fujiki:]--> Naohito Fujiki",
         "Cytisus: --[cytisus]--> genus flowering",
-        "Crossings --[(herbie]--> Hancock album):"
+        "Crossings --[(herbie]--> Hancock album):",
+        "Hjalmar --[schacht:]--> Horace Greeley"
     ]
 }
