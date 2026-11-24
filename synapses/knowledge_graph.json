@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Culverwell",
-        "Site: Culverwell",
         "The",
         "School Watchmaking:",
         "West",
@@ -99,10 +97,11 @@
         "Hjalmar",
         "Horace Greeley",
         "Raja",
-        "Mohan Roy:"
+        "Mohan Roy:",
+        "Pontius",
+        "Pontius Pilate"
     ],
     "edges": [
-        "Mustilia --[sphingiformis]--> gerontica: Mustilia",
         "Was --[first]--> described West",
         "Gymnastics --[the]--> 2004 Summer",
         "Finnish --[seamen's]--> Mission: The",
@@ -251,6 +250,7 @@
         "Cytisus: --[cytisus]--> genus flowering",
         "Crossings --[(herbie]--> Hancock album):",
         "Hjalmar --[schacht:]--> Horace Greeley",
-        "Raja --[ram]--> Mohan Roy:"
+        "Raja --[ram]--> Mohan Roy:",
+        "Pontius --[pilate:]--> Pontius Pilate"
     ]
 }
