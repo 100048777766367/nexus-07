@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "West",
-        "Housing Infrastructure",
-        "Phirphire",
-        "Phirphire 2016",
         "Published",
         "Publication",
         "Goo",
@@ -99,11 +95,13 @@
         "Pontius",
         "Pontius Pilate",
         "Zfhx3:",
-        "finger homeobox"
+        "finger homeobox",
+        "Battle",
+        "The Battle",
+        "Armies",
+        "evenly"
     ],
     "edges": [
-        "Gymnastics --[the]--> 2004 Summer",
-        "Finnish --[seamen's]--> Mission: The",
         "Was --[established]--> help Finns",
         "Daniel --[lopes:]--> Daniel Lopes",
         "Came --[fame]--> contestant the",
@@ -251,6 +249,8 @@
         "Hjalmar --[schacht:]--> Horace Greeley",
         "Raja --[ram]--> Mohan Roy:",
         "Pontius --[pilate:]--> Pontius Pilate",
-        "Zfhx3: --[zinc]--> finger homeobox"
+        "Zfhx3: --[zinc]--> finger homeobox",
+        "Battle --[maloyaroslavets:]--> The Battle",
+        "Armies --[were]--> evenly"
     ]
 }
