@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "The",
-        "School Watchmaking:",
         "West",
         "Housing Infrastructure",
         "Phirphire",
@@ -99,10 +97,11 @@
         "Raja",
         "Mohan Roy:",
         "Pontius",
-        "Pontius Pilate"
+        "Pontius Pilate",
+        "Zfhx3:",
+        "finger homeobox"
     ],
     "edges": [
-        "Was --[first]--> described West",
         "Gymnastics --[the]--> 2004 Summer",
         "Finnish --[seamen's]--> Mission: The",
         "Was --[established]--> help Finns",
@@ -251,6 +250,7 @@
         "Crossings --[(herbie]--> Hancock album):",
         "Hjalmar --[schacht:]--> Horace Greeley",
         "Raja --[ram]--> Mohan Roy:",
-        "Pontius --[pilate:]--> Pontius Pilate"
+        "Pontius --[pilate:]--> Pontius Pilate",
+        "Zfhx3: --[zinc]--> finger homeobox"
     ]
 }
