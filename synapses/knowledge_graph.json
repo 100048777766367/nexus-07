@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "John",
-        "(sportswriter): John",
-        "Froland",
-        "Froland Church",
         "Spider-Man (2014",
         "Seconds",
         "Seconds the",
@@ -99,11 +95,13 @@
         "For",
         "Liberation Shusha",
         "The",
-        "was created"
+        "was created",
+        "Superhelix:",
+        "molecular structure",
+        "This",
+        "both protei"
     ],
     "edges": [
-        "Came --[fame]--> contestant the",
-        "Carrie --[rheingans:]--> Carrie Amber",
         "Ivaylo --[markov:]--> Ivaylo Borislavov",
         "Alfred --[ittner:]--> Alfred Ittner",
         "Deep --[creek]--> Reservoir (Nevada):",
@@ -251,6 +249,8 @@
         "Battle --[maloyaroslavets:]--> The Battle",
         "Armies --[were]--> evenly",
         "For --[the]--> Liberation Shusha",
-        "The --[medal]--> was created"
+        "The --[medal]--> was created",
+        "Superhelix: --[superhelix]--> molecular structure",
+        "This --[significant]--> both protei"
     ]
 }
