@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Published",
-        "Publication",
-        "Goo",
-        "Dolls discography:",
         "John",
         "(sportswriter): John",
         "Froland",
@@ -99,11 +95,13 @@
         "Battle",
         "The Battle",
         "Armies",
-        "evenly"
+        "evenly",
+        "For",
+        "Liberation Shusha",
+        "The",
+        "was created"
     ],
     "edges": [
-        "Was --[established]--> help Finns",
-        "Daniel --[lopes:]--> Daniel Lopes",
         "Came --[fame]--> contestant the",
         "Carrie --[rheingans:]--> Carrie Amber",
         "Ivaylo --[markov:]--> Ivaylo Borislavov",
@@ -251,6 +249,8 @@
         "Pontius --[pilate:]--> Pontius Pilate",
         "Zfhx3: --[zinc]--> finger homeobox",
         "Battle --[maloyaroslavets:]--> The Battle",
-        "Armies --[were]--> evenly"
+        "Armies --[were]--> evenly",
+        "For --[the]--> Liberation Shusha",
+        "The --[medal]--> was created"
     ]
 }
