@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Spider-Man (2014",
-        "Seconds",
-        "Seconds the",
-        "Was",
         "1994 MCA",
         "peaked",
         "Shepreth:",
@@ -99,11 +95,13 @@
         "Superhelix:",
         "molecular structure",
         "This",
-        "both protei"
+        "both protei",
+        "Lysimachia",
+        "Lysimachia arvensis,",
+        "Anagallis",
+        "commonly known"
     ],
     "edges": [
-        "Ivaylo --[markov:]--> Ivaylo Borislavov",
-        "Alfred --[ittner:]--> Alfred Ittner",
         "Deep --[creek]--> Reservoir (Nevada):",
         "Horace --[wolcott]--> Robbins: Horace",
         "Iqsec2: --[motif]--> and Sec7",
@@ -251,6 +249,8 @@
         "For --[the]--> Liberation Shusha",
         "The --[medal]--> was created",
         "Superhelix: --[superhelix]--> molecular structure",
-        "This --[significant]--> both protei"
+        "This --[significant]--> both protei",
+        "Lysimachia --[arvensis:]--> Lysimachia arvensis,",
+        "Anagallis --[arvensis,]--> commonly known"
     ]
 }
