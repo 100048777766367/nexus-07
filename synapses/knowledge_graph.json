@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Daniel",
-        "Daniel Shek",
-        "Albert",
-        "Albert Sturgess",
         "Boyer–moore",
         "vote algorithm:",
         "Pontechium:",
@@ -99,11 +95,13 @@
         "Mexico–russia",
         "The nations",
         "1924,",
-        "recognized and"
+        "recognized and",
+        "Ahlquist:",
+        "Perry Ahlquist",
+        "Published",
+        "work 1948"
     ],
     "edges": [
-        "Iqsec2: --[motif]--> and Sec7",
-        "Dead --[state:]--> Dead State",
         "Manakanakku: --[manakanakku]--> 1986 Indian",
         "Sakthi, --[starring]--> Vijayakanth, Sarath",
         "Thomas --[neubauer:]--> Thomas Neubauer",
@@ -251,6 +249,8 @@
         "Lysimachia --[arvensis:]--> Lysimachia arvensis,",
         "Anagallis --[arvensis,]--> commonly known",
         "Mexico–russia --[relations:]--> The nations",
-        "1924, --[mexico]--> recognized and"
+        "1924, --[mexico]--> recognized and",
+        "Ahlquist: --[raymond]--> Perry Ahlquist",
+        "Published --[seminal]--> work 1948"
     ]
 }
