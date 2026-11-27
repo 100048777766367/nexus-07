@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "1994 MCA",
-        "peaked",
-        "Shepreth:",
-        "small village",
         "Daniel",
         "Daniel Shek",
         "Albert",
@@ -99,11 +95,13 @@
         "Lysimachia",
         "Lysimachia arvensis,",
         "Anagallis",
-        "commonly known"
+        "commonly known",
+        "Mexico–russia",
+        "The nations",
+        "1924,",
+        "recognized and"
     ],
     "edges": [
-        "Deep --[creek]--> Reservoir (Nevada):",
-        "Horace --[wolcott]--> Robbins: Horace",
         "Iqsec2: --[motif]--> and Sec7",
         "Dead --[state:]--> Dead State",
         "Manakanakku: --[manakanakku]--> 1986 Indian",
@@ -251,6 +249,8 @@
         "Superhelix: --[superhelix]--> molecular structure",
         "This --[significant]--> both protei",
         "Lysimachia --[arvensis:]--> Lysimachia arvensis,",
-        "Anagallis --[arvensis,]--> commonly known"
+        "Anagallis --[arvensis,]--> commonly known",
+        "Mexico–russia --[relations:]--> The nations",
+        "1924, --[mexico]--> recognized and"
     ]
 }
