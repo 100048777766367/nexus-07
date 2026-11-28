@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Boyer–moore",
-        "vote algorithm:",
-        "Pontechium:",
-        "maculatum species",
         "species genus",
         "Everything",
         "Where Ends:",
@@ -99,11 +95,13 @@
         "Ahlquist:",
         "Perry Ahlquist",
         "Published",
-        "work 1948"
+        "work 1948",
+        "Afro-cuban",
+        "Stars: Afro-Cuban",
+        "Their",
+        "mix all"
     ],
     "edges": [
-        "Manakanakku: --[manakanakku]--> 1986 Indian",
-        "Sakthi, --[starring]--> Vijayakanth, Sarath",
         "Thomas --[neubauer:]--> Thomas Neubauer",
         "Former --[champion]--> the World",
         "Mesopotamia --[(roman]--> province): Mesopotamia",
@@ -251,6 +249,8 @@
         "Mexico–russia --[relations:]--> The nations",
         "1924, --[mexico]--> recognized and",
         "Ahlquist: --[raymond]--> Perry Ahlquist",
-        "Published --[seminal]--> work 1948"
+        "Published --[seminal]--> work 1948",
+        "Afro-cuban --[all]--> Stars: Afro-Cuban",
+        "Their --[music]--> mix all"
     ]
 }
